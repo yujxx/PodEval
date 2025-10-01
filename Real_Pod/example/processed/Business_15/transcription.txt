@@ -1,0 +1,49 @@
+[0.00-20.84]:  Hey everyone, welcome back to the show.
+[20.84-25.32]:  Tonight we've got a pretty interesting topic lined up.
+[25.32-33.12]:  We're talking about how data analysis is like changing the way businesses make decisions
+[33.12-34.88]:  and to chat about this.
+[34.88-36.80]:  We've got two really cool guests with us.
+[36.80-44.98]:  So, let's welcome Dr. Lena Morris, who's this super experienced data, scientist and
+[44.98-49.36]:  analytics contolale and also Raj Patel.
+[49.36-51.04]:  He's the CEO of Tech Ventures.
+[51.04-53.04]:  All right, let's just dive in.
+[53.04-58.48]:  So Dr. Morris, how have you seen data analysis change over the past 10 years or so?
+[58.48-63.76]:  Oh, it's been quite a ride with gone from, like just looking at past and present stuff
+[63.76-66.80]:  to actually predicting future trends, you know.
+[66.80-70.40]:  Data analysis is like totally central to business decisions now.
+[70.40-73.08]:  Whoa, that's quite the change, huh?
+[73.08-77.28]:  But like getting into this whole data thing must come with, you know, some challenges
+[77.28-78.28]:  right?
+[78.28-79.28]:  What do you think?
+[79.28-85.60]:  Things like data, silos and not enough skilled people and even some folks who like resist
+[85.60-86.80]:  the change.
+[86.80-96.24]:  But if you unify data, do some training and like led by example, it can be okay.
+[96.24-99.64]:  That's some really useful advice Dr. Morris.
+[99.64-105.24]:  So do you have any examples where data analytics like really change to business decision?
+[105.24-106.88]:  Oh, yeah, definitely.
+[106.88-110.76]:  I remember working with this big company that had like supply chain issues.
+[110.76-116.76]:  We did some like detailed data analysis and managed to optimize their inventory and it
+[116.76-120.40]:  was pretty game changing in terms of cost and customer happiness.
+[120.40-123.64]:  Wow, that's an awesome story, Dr. Morris.
+[123.64-128.72]:  So Raj, what do you think about how data analysis is shaping business choices?
+[128.72-134.96]:  Yeah, we've seen it go from just describing stuff to like actually guiding decisions
+[134.96-142.24]:  at tech ventures we're all about like making this kind of change.
+[142.24-146.92]:  What kind of challenges do businesses like face Raj?
+[146.92-152.68]:  Uh, both cultural and technical stuff can trip businesses up.
+[152.68-159.60]:  But if you like, involve everyone and start small with projects, it helps smooth things
+[159.60-161.40]:  out, you know?
+[161.40-162.88]:  Cool strategies.
+[162.88-170.08]:  Raj, can you share a personal story where data and analysis come alike made up impact?
+[170.08-171.60]:  For sure.
+[171.60-175.40]:  So we worked with this big retail chain, right?
+[175.40-183.04]:  We built a predictive model and it cut their out of stock problems by like 30%.
+[183.04-185.80]:  Customers were happier and profits went up.
+[185.80-188.20]:  It was like a win win.
+[188.20-192.08]:  So looking forward, what should businesses focus on?
+[192.08-197.60]:  I think investing in data, infrastructure, training people and uh, making sure everyone
+[197.60-201.04]:  sees the value in data, driven insights is key.
+[201.04-207.52]:  Absolutely agree with Dr. Morris also, like fostering a culture of data, literacy, investing
+[207.52-213.88]:  and flexible infrastructure and building partnerships can uh, give better insights.
+[213.88-216.68]:  This has been like such an inspiring chat.
+[216.68-222.24]:  Like thanks to Dr. Morris and Mr. Patel for like sharing their awesome insights.
+[222.24-227.32]:  And thanks to all of you listening, till next time, keep curious and keep informed.

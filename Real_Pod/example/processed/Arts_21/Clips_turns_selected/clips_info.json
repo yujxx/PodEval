@@ -1,0 +1,27 @@
+{
+  "audio_file": "example/processed/Arts_21/vocals.wav",
+  "selected_clips": [
+    {
+      "dialog_id": 15,
+      "audio_file": "dialog_15_SPEAKER_02-SPEAKER_01_217.92-237.52.wav",
+      "time_range": {
+        "start": 217.92,
+        "end": 237.52
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "It's nonlinear structure uh, enhances the turbulent relationships, giving the story like a strong emotional weight. It offers viewers uh, um, emerasic experience. Right so genre can shape a film's emotional journey. Dr. Hart, how do you like approach genre and your narrative"
+    },
+    {
+      "dialog_id": 21,
+      "audio_file": "dialog_21_SPEAKER_02-SPEAKER_01_313.04-333.12.wav",
+      "time_range": {
+        "start": 313.04,
+        "end": 333.12
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "Oh, it was such a pleasure, Alex. Thanks for having us. Yeah, thanks, Alex. It was um, really great talking stories with you all. Always amazing. All right. And that's uh, it for tonight's cinematic talks tune in next time as we keep exploring. Um, movie magic. Good night everybody."
+    }
+  ]
+}

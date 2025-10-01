@@ -1,0 +1,182 @@
+{
+  "audio_file": "example/processed/Arts_20/vocals.wav",
+  "total_clips": 16,
+  "clips": [
+    {
+      "dialog_id": 1,
+      "audio_file": "dialog_1_SPEAKER_01-SPEAKER_02_16.12-45.30.wav",
+      "time_range": {
+        "start": 16.12,
+        "end": 45.3
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "and Dr. Samantha Cho, who's an artist, story, and and curator. Exciting stuff, right? So Alex, can you tell us like how the early days of graffiti you know influenced what you do now as a street artist? Yeah, for sure the graffiti scene in the 70s and 80s was like the foundation for artists like me. Legends like Basquiat and Harring started on the streets. They, you know, used"
+    },
+    {
+      "dialog_id": 2,
+      "audio_file": "dialog_2_SPEAKER_02-SPEAKER_01_51.98-75.06.wav",
+      "time_range": {
+        "start": 51.98,
+        "end": 75.06
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "mixing graffiti energy with fine art deeds, using stuff like spray paint and digital projection mapping. It being kind of my way to show how street arts evolving. That's such a cool mix of old and new Dr. Cho from your perspective. How has street art kind of moved from, you know, being seen as just vandalism to like? Something really"
+    },
+    {
+      "dialog_id": 3,
+      "audio_file": "dialog_3_SPEAKER_01-SPEAKER_00_64.02-86.58.wav",
+      "time_range": {
+        "start": 64.02,
+        "end": 86.58
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "That's such a cool mix of old and new Dr. Cho from your perspective. How has street art kind of moved from, you know, being seen as just vandalism to like? Something really appreciated. Oh, it's been a journey for sure. Street art was once just seen as vandalism right, but um, thanks to public interest in recognizing its cultural value. It's gained respect in"
+    },
+    {
+      "dialog_id": 4,
+      "audio_file": "dialog_4_SPEAKER_00-SPEAKER_01_82.06-103.38.wav",
+      "time_range": {
+        "start": 82.06,
+        "end": 103.38
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "um, thanks to public interest in recognizing its cultural value. It's gained respect in my exhibits. I try to show how street art, you know, really captures city life and proves it's a proper art form. Yeah, totally so, Alex, how's the digital age and social media like changed your art and how far it reaches digital tools?"
+    },
+    {
+      "dialog_id": 5,
+      "audio_file": "dialog_5_SPEAKER_01-SPEAKER_02_93.58-116.70.wav",
+      "time_range": {
+        "start": 93.58,
+        "end": 116.7
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "Yeah, totally so, Alex, how's the digital age and social media like changed your art and how far it reaches digital tools? Um, totally changed things. They let my art go viral, turning local pieces into like globals and satiions. Projection mapping helps make my work dynamic, not just stuck on"
+    },
+    {
+      "dialog_id": 6,
+      "audio_file": "dialog_6_SPEAKER_02-SPEAKER_01_109.78-129.70.wav",
+      "time_range": {
+        "start": 109.78,
+        "end": 129.7
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "globals and satiions. Projection mapping helps make my work dynamic, not just stuck on walls. These texts let me connect with everyone worldwide, which is like mind blowing. And Dr. Cho, how are digital advancements kind of changing the game for street art academically?"
+    },
+    {
+      "dialog_id": 7,
+      "audio_file": "dialog_7_SPEAKER_01-SPEAKER_00_122.90-139.62.wav",
+      "time_range": {
+        "start": 122.9,
+        "end": 139.62
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "And Dr. Cho, how are digital advancements kind of changing the game for street art academically? Definitely digital tech expands street art beyond just walls, right? My research shows artists are using like social media to share and interact, expanding what we even think"
+    },
+    {
+      "dialog_id": 8,
+      "audio_file": "dialog_8_SPEAKER_00-SPEAKER_01_129.70-147.90.wav",
+      "time_range": {
+        "start": 129.7,
+        "end": 147.9
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "Definitely digital tech expands street art beyond just walls, right? My research shows artists are using like social media to share and interact, expanding what we even think of as street and street art. Interesting. So Alex street art impacts communities a lot. Yeah, what have been your experience?"
+    },
+    {
+      "dialog_id": 9,
+      "audio_file": "dialog_9_SPEAKER_01-SPEAKER_02_141.62-160.46.wav",
+      "time_range": {
+        "start": 141.62,
+        "end": 160.46
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "Interesting. So Alex street art impacts communities a lot. Yeah, what have been your experience? Street art really changes urban spaces. It makes art like super accessible and reflects, you know, the voices of underrepresented groups, murals can become symbols of community identity."
+    },
+    {
+      "dialog_id": 10,
+      "audio_file": "dialog_10_SPEAKER_02-SPEAKER_01_153.74-173.66.wav",
+      "time_range": {
+        "start": 153.74,
+        "end": 173.66
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "you know, the voices of underrepresented groups, murals can become symbols of community identity. I've seen how they can like spark community involvement and boost local tourism, totally revamping places. That's amazing Alex, Dr. Cho, from your work, what role does street art play in society?"
+    },
+    {
+      "dialog_id": 11,
+      "audio_file": "dialog_11_SPEAKER_01-SPEAKER_00_165.86-186.50.wav",
+      "time_range": {
+        "start": 165.86,
+        "end": 186.5
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "revamping places. That's amazing Alex, Dr. Cho, from your work, what role does street art play in society? Street art's impact on cities is huge. It comments on social issues and can kick start like community action and discussions, especially on stuff like gentrification. With my non-Preddit,"
+    },
+    {
+      "dialog_id": 12,
+      "audio_file": "dialog_12_SPEAKER_00-SPEAKER_01_180.18-200.18.wav",
+      "time_range": {
+        "start": 180.18,
+        "end": 200.18
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "community action and discussions, especially on stuff like gentrification. With my non-Preddit, we use street art to start conversations, often leading to changes in public policy and urban planning, you know. Street art sure has wide reaching effects. Looking ahead Alex, what do you think is next for street art?"
+    },
+    {
+      "dialog_id": 13,
+      "audio_file": "dialog_13_SPEAKER_01-SPEAKER_02_193.78-211.74.wav",
+      "time_range": {
+        "start": 193.78,
+        "end": 211.74
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "Street art sure has wide reaching effects. Looking ahead Alex, what do you think is next for street art? Oh, I can't wait for the future. Street art's going to be more interactive with augmented reality, making art experiences more engaging. And like he, here is so much room for cross"
+    },
+    {
+      "dialog_id": 14,
+      "audio_file": "dialog_14_SPEAKER_02-SPEAKER_01_211.74-228.02.wav",
+      "time_range": {
+        "start": 211.74,
+        "end": 228.02
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "disciplinary collabs that'll change how we interact with art and spaces. I am pumped about using immersive tech that everyone can relate to, no matter their art knowledge. Something to be excited about. And Dr. Cho, what do you see for street art's future?"
+    },
+    {
+      "dialog_id": 15,
+      "audio_file": "dialog_15_SPEAKER_01-SPEAKER_00_222.42-239.18.wav",
+      "time_range": {
+        "start": 222.42,
+        "end": 239.18
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "Something to be excited about. And Dr. Cho, what do you see for street art's future? Street art will keep growing with tech, eco awareness and community partnerships. We're going to see more participatory art where folks are creating, not just looking. I want"
+    },
+    {
+      "dialog_id": 16,
+      "audio_file": "dialog_16_SPEAKER_00-SPEAKER_01_233.06-253.86.wav",
+      "time_range": {
+        "start": 233.06,
+        "end": 253.86
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "going to see more participatory art where folks are creating, not just looking. I want to keep fostering these collaborations to keep art central in urban life. What a vision from you both. Thanks, Alex and Dr. Cho, for sharing your thoughts on street arts evolution and to our viewers. Thanks for listening. Keep creating and see you next"
+    }
+  ]
+}

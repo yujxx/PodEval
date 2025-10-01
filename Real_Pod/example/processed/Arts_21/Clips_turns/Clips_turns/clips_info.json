@@ -1,0 +1,237 @@
+{
+  "audio_file": "example/processed/Arts_21/vocals.wav",
+  "total_clips": 21,
+  "clips": [
+    {
+      "dialog_id": 1,
+      "audio_file": "dialog_1_SPEAKER_01-SPEAKER_00_27.40-48.96.wav",
+      "time_range": {
+        "start": 27.4,
+        "end": 48.96
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "guests here, Dr. Evelyn Hart and Marcus Shee who are going to like take us on a journey about narratives and emotions and films. So, um, welcome Dr. Hart and Marcus Shee. It's really great to, you know, have you both here? Thanks Alex. It's really nice to be here and like talk about how narratives kind of connect filmmakers with like the audience"
+    },
+    {
+      "dialog_id": 2,
+      "audio_file": "dialog_2_SPEAKER_00-SPEAKER_02_38.44-59.04.wav",
+      "time_range": {
+        "start": 38.44,
+        "end": 59.04
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "really great to, you know, have you both here? Thanks Alex. It's really nice to be here and like talk about how narratives kind of connect filmmakers with like the audience on this emotional level exciting stuff. Yeah, totally excited Alex. Story telling is like my passion, you know, and I am really looking forward to just diving into all this"
+    },
+    {
+      "dialog_id": 3,
+      "audio_file": "dialog_3_SPEAKER_02-SPEAKER_01_48.96-72.36.wav",
+      "time_range": {
+        "start": 48.96,
+        "end": 72.36
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "on this emotional level exciting stuff. Yeah, totally excited Alex. Story telling is like my passion, you know, and I am really looking forward to just diving into all this with you and um, Dr. Hart. So, Dr. Hart, in your work especially like emotions on the silver screen, right? You talk about how narrative structures kind of need to integrate"
+    },
+    {
+      "dialog_id": 4,
+      "audio_file": "dialog_4_SPEAKER_01-SPEAKER_00_65.62-92.32.wav",
+      "time_range": {
+        "start": 65.62,
+        "end": 92.32
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "silver screen, right? You talk about how narrative structures kind of need to integrate stuff to evoke emotions in viewers. Can you like expand on that? Oh, absolutely Alex, um, a narrative. It's like this, uh, invisible guide for the audience in the book. I talk about, you know, resonance making sure the story beats kind of match with like the viewers"
+    },
+    {
+      "dialog_id": 5,
+      "audio_file": "dialog_5_SPEAKER_00-SPEAKER_01_86.32-111.68.wav",
+      "time_range": {
+        "start": 86.32,
+        "end": 111.68
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "about, you know, resonance making sure the story beats kind of match with like the viewers own life experiences. It's um, not just about characters on screen. It's about audience reflection, right? That's a super cool. And Marcus, you are known for um, focusing on characters first in screenwriting. How does that like shape the emotional journey? Great"
+    },
+    {
+      "dialog_id": 6,
+      "audio_file": "dialog_6_SPEAKER_01-SPEAKER_02_98.72-123.20.wav",
+      "time_range": {
+        "start": 98.72,
+        "end": 123.2
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "reflection, right? That's a super cool. And Marcus, you are known for um, focusing on characters first in screenwriting. How does that like shape the emotional journey? Great question Alex. For me, it's all about pacing the story. So the audience uh, connects with each emotional beat right by like really getting what my characters want and fear. I can craft"
+    },
+    {
+      "dialog_id": 7,
+      "audio_file": "dialog_7_SPEAKER_02-SPEAKER_01_111.68-137.20.wav",
+      "time_range": {
+        "start": 111.68,
+        "end": 137.2
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "question Alex. For me, it's all about pacing the story. So the audience uh, connects with each emotional beat right by like really getting what my characters want and fear. I can craft these moments that just uh, resonate deeply. And Dr. Hart, you've noticed uh, more sophisticated narratives and cinema these days. How do digital platforms and like audience demands"
+    },
+    {
+      "dialog_id": 8,
+      "audio_file": "dialog_8_SPEAKER_01-SPEAKER_00_123.20-149.32.wav",
+      "time_range": {
+        "start": 123.2,
+        "end": 149.32
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "these moments that just uh, resonate deeply. And Dr. Hart, you've noticed uh, more sophisticated narratives and cinema these days. How do digital platforms and like audience demands play into that? Definitely Alex, digital platforms. They mix up what audiences want, right? I've seen how filmmakers now uh, blend genres and use like nonlinear storytelling to meet"
+    },
+    {
+      "dialog_id": 9,
+      "audio_file": "dialog_9_SPEAKER_00-SPEAKER_01_143.80-159.84.wav",
+      "time_range": {
+        "start": 143.8,
+        "end": 159.84
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "I've seen how filmmakers now uh, blend genres and use like nonlinear storytelling to meet these new demands. It's kind of like a mirror of our complex world, you know? Marcus, your stuff reflects um, similar complexity. What do you think about current expectations and how"
+    },
+    {
+      "dialog_id": 10,
+      "audio_file": "dialog_10_SPEAKER_01-SPEAKER_02_154.16-172.00.wav",
+      "time_range": {
+        "start": 154.16,
+        "end": 172.0
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "stuff reflects um, similar complexity. What do you think about current expectations and how they shape your storytelling? Audiences want narratives that um, really challenge and reflect diverse experiences. This uh, pushes me to like experiment with nonlinear plots,"
+    },
+    {
+      "dialog_id": 11,
+      "audio_file": "dialog_11_SPEAKER_02-SPEAKER_01_165.52-185.28.wav",
+      "time_range": {
+        "start": 165.52,
+        "end": 185.28
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "reflect diverse experiences. This uh, pushes me to like experiment with nonlinear plots, nuance characters and craft stories that you know, resonate deeply. Okay. So you both talked about films with uh, NATO narratives, Dr. Hart. Could you talk more about memento"
+    },
+    {
+      "dialog_id": 12,
+      "audio_file": "dialog_12_SPEAKER_01-SPEAKER_00_177.68-198.00.wav",
+      "time_range": {
+        "start": 177.68,
+        "end": 198.0
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "talked about films with uh, NATO narratives, Dr. Hart. Could you talk more about memento and like its narrative brilliance? Momento is uh, a great example. Christopher Nolan's reverse chronology gets us into the protagonists um, disorientation. This narrative choice,"
+    },
+    {
+      "dialog_id": 13,
+      "audio_file": "dialog_13_SPEAKER_00-SPEAKER_01_191.84-210.56.wav",
+      "time_range": {
+        "start": 191.84,
+        "end": 210.56
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "reverse chronology gets us into the protagonists um, disorientation. This narrative choice, it demands like active viewer engagement, making it superadial. And Marcus, talking about eternal sunshine of the spotless mind. How does it's um, narrative structure boost the"
+    },
+    {
+      "dialog_id": 14,
+      "audio_file": "dialog_14_SPEAKER_01-SPEAKER_02_204.16-224.24.wav",
+      "time_range": {
+        "start": 204.16,
+        "end": 224.24
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "eternal sunshine of the spotless mind. How does it's um, narrative structure boost the emotional connection? That film is just uh, amazing in how it like handles memory and emotion. It's nonlinear structure uh, enhances the turbulent relationships, giving the story like"
+    },
+    {
+      "dialog_id": 15,
+      "audio_file": "dialog_15_SPEAKER_02-SPEAKER_01_217.92-237.52.wav",
+      "time_range": {
+        "start": 217.92,
+        "end": 237.52
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "It's nonlinear structure uh, enhances the turbulent relationships, giving the story like a strong emotional weight. It offers viewers uh, um, emerasic experience. Right so genre can shape a film's emotional journey. Dr. Hart, how do you like approach genre and your narrative"
+    },
+    {
+      "dialog_id": 16,
+      "audio_file": "dialog_16_SPEAKER_01-SPEAKER_00_232.16-250.48.wav",
+      "time_range": {
+        "start": 232.16,
+        "end": 250.48
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "shape a film's emotional journey. Dr. Hart, how do you like approach genre and your narrative analysis? Zane. It sets audience expectations, but also gives filmmakers a kind of blueprint, you know, to either follow or um, disrupt. In my book, I talk about how a narrative can adhere to"
+    },
+    {
+      "dialog_id": 17,
+      "audio_file": "dialog_17_SPEAKER_00-SPEAKER_01_243.68-260.80.wav",
+      "time_range": {
+        "start": 243.68,
+        "end": 260.8
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "you know, to either follow or um, disrupt. In my book, I talk about how a narrative can adhere to or creatively mess with these conventions to boost emotional engagement. And Marcus says a screenwriter, how do you handle genre expectations to like? Enhance the audience's emotional"
+    },
+    {
+      "dialog_id": 18,
+      "audio_file": "dialog_18_SPEAKER_01-SPEAKER_02_255.44-272.72.wav",
+      "time_range": {
+        "start": 255.44,
+        "end": 272.72
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "screenwriter, how do you handle genre expectations to like? Enhance the audience's emotional experience. For me um, starting with genre expectations is key. Then I uh, look for opportunities to kind of subvert them, making the emotional experience more um, surprising and fulfilling"
+    },
+    {
+      "dialog_id": 19,
+      "audio_file": "dialog_19_SPEAKER_02-SPEAKER_01_267.12-292.64.wav",
+      "time_range": {
+        "start": 267.12,
+        "end": 292.64
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "opportunities to kind of subvert them, making the emotional experience more um, surprising and fulfilling for viewers. It's about finding that right balance to uh, tell a meaningful story. Thank you both for like sharing these insights. It's been an enlightening chat about narratives and how they, evoke emotions. Hope our listeners are um, inspired and all that."
+    },
+    {
+      "dialog_id": 20,
+      "audio_file": "dialog_20_SPEAKER_01-SPEAKER_02_280.24-327.76.wav",
+      "time_range": {
+        "start": 280.24,
+        "end": 327.76
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "for like sharing these insights. It's been an enlightening chat about narratives and how they, evoke emotions. Hope our listeners are um, inspired and all that. Oh, it was such a pleasure, Alex. Thanks for having us. Yeah, thanks, Alex. It was um, really great talking stories with you all. Always amazing. All right. And that's uh, it for tonight's cinematic"
+    },
+    {
+      "dialog_id": 21,
+      "audio_file": "dialog_21_SPEAKER_02-SPEAKER_01_313.04-333.12.wav",
+      "time_range": {
+        "start": 313.04,
+        "end": 333.12
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "Oh, it was such a pleasure, Alex. Thanks for having us. Yeah, thanks, Alex. It was um, really great talking stories with you all. Always amazing. All right. And that's uh, it for tonight's cinematic talks tune in next time as we keep exploring. Um, movie magic. Good night everybody."
+    }
+  ]
+}

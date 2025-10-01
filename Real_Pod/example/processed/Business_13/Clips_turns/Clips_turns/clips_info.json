@@ -1,0 +1,204 @@
+{
+  "audio_file": "example/processed/Business_13/vocals.wav",
+  "total_clips": 18,
+  "clips": [
+    {
+      "dialog_id": 1,
+      "audio_file": "dialog_1_SPEAKER_01-SPEAKER_00_14.72-38.48.wav",
+      "time_range": {
+        "start": 14.72,
+        "end": 38.48
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "We've got uh, two awesome guests with us, Elizabeth Hawthorne, who's like a big name in tech and Marcus Yee. Ah, he's making waves in independent game development, so uh, welcome guys. Yeah, thanks Alex, really excited to be here and chat about our strategies and stuff."
+    },
+    {
+      "dialog_id": 2,
+      "audio_file": "dialog_2_SPEAKER_00-SPEAKER_02_26.40-46.68.wav",
+      "time_range": {
+        "start": 26.4,
+        "end": 46.68
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "Yeah, thanks Alex, really excited to be here and chat about our strategies and stuff. Totally excited Alex, looking forward to uh, sharing some gaming insights and like learning from Elizabeth too."
+    },
+    {
+      "dialog_id": 3,
+      "audio_file": "dialog_3_SPEAKER_02-SPEAKER_01_38.48-55.72.wav",
+      "time_range": {
+        "start": 38.48,
+        "end": 55.72
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "Totally excited Alex, looking forward to uh, sharing some gaming insights and like learning from Elizabeth too. Cool, so Elizabeth, um, let's start with you. Your success in um, the tech world is like super inspiring."
+    },
+    {
+      "dialog_id": 4,
+      "audio_file": "dialog_4_SPEAKER_01-SPEAKER_00_50.60-72.88.wav",
+      "time_range": {
+        "start": 50.6,
+        "end": 72.88
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "Your success in um, the tech world is like super inspiring. How did um, innovation and partnership, you know, play into your game plan? Well, yeah, like from the start we wanted to um, be ahead and tech, not just following, but like creating new solutions, partnerships, you know, are uh, super important."
+    },
+    {
+      "dialog_id": 5,
+      "audio_file": "dialog_5_SPEAKER_00-SPEAKER_01_67.32-91.00.wav",
+      "time_range": {
+        "start": 67.32,
+        "end": 91.0
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "but like creating new solutions, partnerships, you know, are uh, super important. They help us get into new markets and uh, combine our strengths and um, taking care of our employees has been like really key for us too. Embracing change, huh? So uh, Marcus, how's your gaming studio been handling like tech shifts?"
+    },
+    {
+      "dialog_id": 6,
+      "audio_file": "dialog_6_SPEAKER_01-SPEAKER_02_81.88-98.28.wav",
+      "time_range": {
+        "start": 81.88,
+        "end": 98.28
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "Embracing change, huh? So uh, Marcus, how's your gaming studio been handling like tech shifts? Yeah, that's uh, spot on. Alex, keeping up with tech trends is like super crucial."
+    },
+    {
+      "dialog_id": 7,
+      "audio_file": "dialog_7_SPEAKER_02-SPEAKER_01_98.28-118.12.wav",
+      "time_range": {
+        "start": 98.28,
+        "end": 118.12
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "We've been you know, using AI and stuff for smarter Bible and checking out augmented reality for better experiences. It's uh, all about offering something fresh and uh, such a crowded market. Speaking of challenges, Elizabeth, you talked about the um, 2008 economic downturn."
+    },
+    {
+      "dialog_id": 8,
+      "audio_file": "dialog_8_SPEAKER_01-SPEAKER_00_110.84-133.12.wav",
+      "time_range": {
+        "start": 110.84,
+        "end": 133.12
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "Speaking of challenges, Elizabeth, you talked about the um, 2008 economic downturn. How'd your company deal with that? Oh, yeah, the downturn was like tough, but we saw it um, as a chance to push our R and D and you know, go towards imitative products and um, online presence with digital stuff."
+    },
+    {
+      "dialog_id": 9,
+      "audio_file": "dialog_9_SPEAKER_00-SPEAKER_01_126.24-146.84.wav",
+      "time_range": {
+        "start": 126.24,
+        "end": 146.84
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "D and you know, go towards imitative products and um, online presence with digital stuff. It wasn't easy, but um, it set us up for you know, better results later. Strategic moves for sure, Marcus. Your industry had um, a shake up with app store policy changes."
+    },
+    {
+      "dialog_id": 10,
+      "audio_file": "dialog_10_SPEAKER_01-SPEAKER_02_139.52-159.56.wav",
+      "time_range": {
+        "start": 139.52,
+        "end": 159.56
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "Strategic moves for sure, Marcus. Your industry had um, a shake up with app store policy changes. What do you guys do? Yeah, that was a hard time. We switched from um, adds to a freemium model, which was a big change for us, but um,"
+    },
+    {
+      "dialog_id": 11,
+      "audio_file": "dialog_11_SPEAKER_02-SPEAKER_01_151.04-176.16.wav",
+      "time_range": {
+        "start": 151.04,
+        "end": 176.16
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "We switched from um, adds to a freemium model, which was a big change for us, but um, adapting was really important to you know, keep the business going. Elizabeth, managing short term profits and um, long term growth must be pretty tricky right, especially with uh, ethical stuff."
+    },
+    {
+      "dialog_id": 12,
+      "audio_file": "dialog_12_SPEAKER_01-SPEAKER_00_164.56-183.72.wav",
+      "time_range": {
+        "start": 164.56,
+        "end": 183.72
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "Elizabeth, managing short term profits and um, long term growth must be pretty tricky right, especially with uh, ethical stuff. Yeah, laxity um, all about balance. We invest in growth areas, make sure our customers are happy and uh, don't compromise"
+    },
+    {
+      "dialog_id": 13,
+      "audio_file": "dialog_13_SPEAKER_00-SPEAKER_01_183.72-198.12.wav",
+      "time_range": {
+        "start": 183.72,
+        "end": 198.12
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "on ethics. Our um, social responsibility framework helps keep us you know, on the right path with ethics and that boosts customer loyalty and growth. And Marcus that balance in the gaming world um, must be different. What's your take?"
+    },
+    {
+      "dialog_id": 14,
+      "audio_file": "dialog_14_SPEAKER_01-SPEAKER_02_193.56-207.12.wav",
+      "time_range": {
+        "start": 193.56,
+        "end": 207.12
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "And Marcus that balance in the gaming world um, must be different. What's your take? For sure, Alex. We um, focus on growing patiently, putting money into our and Dity and uh, staying ethical"
+    },
+    {
+      "dialog_id": 15,
+      "audio_file": "dialog_15_SPEAKER_02-SPEAKER_01_207.12-236.72.wav",
+      "time_range": {
+        "start": 207.12,
+        "end": 236.72
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "for us, um, responsible gaming super important. We don't do any um, predatory monetization. We want to give real value to our players. Okay, before we um, wrap up any uh, advice for small businesses or um, smart hooks trying to compete with like the big guys."
+    },
+    {
+      "dialog_id": 16,
+      "audio_file": "dialog_16_SPEAKER_01-SPEAKER_00_226.08-250.52.wav",
+      "time_range": {
+        "start": 226.08,
+        "end": 250.52
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "to compete with like the big guys. I'd say um, focus on what makes you special, innovate, take risks when they um, make sense and keep your team, you know, happy, always think about ethics in uh, your decisions."
+    },
+    {
+      "dialog_id": 17,
+      "audio_file": "dialog_17_SPEAKER_00-SPEAKER_02_236.72-260.88.wav",
+      "time_range": {
+        "start": 236.72,
+        "end": 260.88
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "I'd say um, focus on what makes you special, innovate, take risks when they um, make sense and keep your team, you know, happy, always think about ethics in uh, your decisions. Find your unique thing and uh, don't skimp on quality, use tech. Build a community around your stuff and be ready to um, adapt being small means."
+    },
+    {
+      "dialog_id": 18,
+      "audio_file": "dialog_18_SPEAKER_02-SPEAKER_01_250.52-273.24.wav",
+      "time_range": {
+        "start": 250.52,
+        "end": 273.24
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "Find your unique thing and uh, don't skimp on quality, use tech. Build a community around your stuff and be ready to um, adapt being small means. Uh, you can change quickly, so use that. What a um, great chat. Thanks Elizabeth and Marcus for sharing uh, your stories and tips and uh, to our viewers."
+    }
+  ]
+}

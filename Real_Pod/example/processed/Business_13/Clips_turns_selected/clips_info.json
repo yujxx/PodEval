@@ -1,0 +1,27 @@
+{
+  "audio_file": "example/processed/Business_13/vocals.wav",
+  "selected_clips": [
+    {
+      "dialog_id": 17,
+      "audio_file": "dialog_17_SPEAKER_00-SPEAKER_02_236.72-260.88.wav",
+      "time_range": {
+        "start": 236.72,
+        "end": 260.88
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "I'd say um, focus on what makes you special, innovate, take risks when they um, make sense and keep your team, you know, happy, always think about ethics in uh, your decisions. Find your unique thing and uh, don't skimp on quality, use tech. Build a community around your stuff and be ready to um, adapt being small means."
+    },
+    {
+      "dialog_id": 8,
+      "audio_file": "dialog_8_SPEAKER_01-SPEAKER_00_110.84-133.12.wav",
+      "time_range": {
+        "start": 110.84,
+        "end": 133.12
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "Speaking of challenges, Elizabeth, you talked about the um, 2008 economic downturn. How'd your company deal with that? Oh, yeah, the downturn was like tough, but we saw it um, as a chance to push our R and D and you know, go towards imitative products and um, online presence with digital stuff."
+    }
+  ]
+}

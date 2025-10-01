@@ -1,0 +1,27 @@
+{
+  "audio_file": "example/processed/Arts_19/vocals.wav",
+  "selected_clips": [
+    {
+      "dialog_id": 15,
+      "audio_file": "dialog_15_SPEAKER_02-SPEAKER_01_231.64-249.24.wav",
+      "time_range": {
+        "start": 231.64,
+        "end": 249.24
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "that kind of amplifies the impact of art. Uh, so how do you think artists should like engage with the community to make their work more relatable? Yeah, acceptability is like super important. Uh, I work on public projects and use digital platforms to kind of reach more folks. It's about"
+    },
+    {
+      "dialog_id": 10,
+      "audio_file": "dialog_10_SPEAKER_02-SPEAKER_01_151.24-172.28.wav",
+      "time_range": {
+        "start": 151.24,
+        "end": 172.28
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "directly in social debates. Sophia, you talked about how art might like influence policy. Could you give us an idea of how that's supposed to work? Art, in my opinion, kind of lays the groundwork for change, you know, like one piece might not change laws right away, but it's really all the art"
+    }
+  ]
+}

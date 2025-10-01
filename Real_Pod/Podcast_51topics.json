@@ -1,0 +1,359 @@
+[
+  {
+    "topic_id": 1,
+    "topic": "How Social Media Shapes Our Relationships",
+    "category": "Society_and_Culture",
+    "episode_link": "https://podcasts.apple.com/us/podcast/social-media-relationships/id1332504968?i=1000698848884",
+    "episode_title": "Social Media Relationships"
+  },
+  {
+    "topic_id": 2,
+    "topic": "Bridging the Gap: How Young and Older Generations View Social Issues Differently",
+    "category": "Society_and_Culture",
+    "episode_link": "https://podcasts.apple.com/us/podcast/episode-13-the-disconnect-between-younger-and/id1737687618?i=1000698183414",
+    "episode_title": "Episode 13: The disconnect between younger and older generations in the church"
+  },
+  {
+    "topic_id": 3,
+    "topic": "Globalization's Influence on Local Cultures: A Double-Edged Sword",
+    "category": "Society_and_Culture",
+    "episode_link": "https://podcasts.apple.com/us/podcast/069-globalization-and-its-discontent-interview/id1646658254?i=1000580442159",
+    "episode_title": "069 Globalization And Its Discontent - Interview With Professor Alexander Chumakov"
+  },
+  {
+    "topic_id": 4,
+    "topic": "Those Awkward Moments We All Experience",
+    "category": "Comedy",
+    "episode_link": "https://podcasts.apple.com/us/podcast/awkward-and-embarrassing-moments-w-gabby-ospina/id1523219014?i=1000530830025",
+    "episode_title": "Awkward and Embarrassing Moments w/ Gabby Ospina"
+  },
+  {
+    "topic_id": 5,
+    "topic": "Laughing Across Borders: Exploring Humor Styles and Cultural Differences",
+    "category": "Comedy",
+    "episode_link": "https://podcasts.apple.com/us/podcast/tlp018-confidence-humility-humor-corporate-culture/id1124942958?i=1000376221606",
+    "episode_title": "TLP018: Confidence, Humility, Humor & Corporate Culture"
+  },
+  {
+    "topic_id": 6,
+    "topic": "The Rise of Internet Buzzwords: Origins and Their Impact",
+    "category": "Comedy",
+    "episode_link": "https://podcasts.apple.com/us/podcast/metaverse-beyond-the-buzzword/id1535359773?i=1000538956609",
+    "episode_title": "Metaverse - beyond the buzzword"
+  },
+  {
+    "topic_id": 7,
+    "topic": "How Media Influences Public Opinion",
+    "category": "News",
+    "episode_link": "https://podcasts.apple.com/us/podcast/the-influence-of-the-media-on-public-opinion/id1730796521?i=1000657068324",
+    "episode_title": "The Influence of the Media on Public Opinion The Power Dynamics within the Government"
+  },
+  {
+    "topic_id": 8,
+    "topic": "The Power of Social Media in Spreading News",
+    "category": "News",
+    "episode_link": "https://podcasts.apple.com/us/podcast/how-do-we-stop-fake-news-spreading-in-africa/id1629452950?i=1000569519852",
+    "episode_title": "How do we stop fake news spreading in Africa?"
+  },
+  {
+    "topic_id": 9,
+    "topic": "Spotting Misinformation: Tips for Navigating News",
+    "category": "News",
+    "episode_link": "https://podcasts.apple.com/us/podcast/spotting-misinformation-on-social-media-w-dr-allan/id1610414870?i=1000642214611",
+    "episode_title": "Spotting Misinformation on Social Media w/ Dr Allan"
+  },
+  {
+    "topic_id": 10,
+    "topic": "The Pros and Cons of Online Learning",
+    "category": "Education",
+    "episode_link": "https://podcasts.apple.com/us/podcast/pros-and-cons-of-online-learning-with-beth-napoli/id1369910620?i=1000471733594",
+    "episode_title": "Pros and Cons of Online Learning with Beth Napoli"
+  },
+  {
+    "topic_id": 11,
+    "topic": "Achieving Educational Equity: Strategies to Close the Gap",
+    "category": "Education",
+    "episode_link": "https://podcasts.apple.com/us/podcast/school-funding-the-real-challenge-in-achieving/id1533427085?i=1000492857715",
+    "episode_title": "School funding\u2014the real challenge in achieving educational equity (Ep. 2)"
+  },
+  {
+    "topic_id": 12,
+    "topic": "The Future of Education: Embracing Technology's Role",
+    "category": "Education",
+    "episode_link": "https://podcasts.apple.com/us/podcast/digital-technologies-in-early-childhood-education/id1690328180?i=1000652475165",
+    "episode_title": "Digital technologies in early childhood education"
+  },
+  {
+    "topic_id": 13,
+    "topic": "David vs. Goliath: Competitive Strategies for Corporations and Small Businesses",
+    "category": "Business",
+    "episode_link": "https://podcasts.apple.com/us/podcast/investing-in-small-businesses-for-profit/id916463101?i=1000494191326",
+    "episode_title": "Investing in Small Businesses For Profit"
+  },
+  {
+    "topic_id": 14,
+    "topic": "Building Brand Loyalty in a Crowded Marketplace",
+    "category": "Business",
+    "episode_link": "https://podcasts.apple.com/us/podcast/brand-loyalty/id953570134?i=1000377868458",
+    "episode_title": "Brand Loyalty"
+  },
+  {
+    "topic_id": 15,
+    "topic": "Harnessing Data Analysis for Smart Business Decisions",
+    "category": "Business",
+    "episode_link": "https://podcasts.apple.com/us/podcast/harnessing-data-analytics-to-drive-business-growth/id1018727913?i=1000609802010",
+    "episode_title": "Harnessing Data Analytics to Drive Business Growth and Better Decision Making"
+  },
+  {
+    "topic_id": 16,
+    "topic": "The Connection Between Mental and Physical Health",
+    "category": "Health_and_Fitness",
+    "episode_link": "https://podcasts.apple.com/us/podcast/connecting-mental-and-physical-health/id1333735108?i=1000426297232",
+    "episode_title": "Connecting Mental and Physical Health"
+  },
+  {
+    "topic_id": 17,
+    "topic": "How Dietary Choices Affect Your Quality of Life",
+    "category": "Health_and_Fitness",
+    "episode_link": "https://podcasts.apple.com/us/podcast/microbiome-and-the-effect-of-dietary-choices-on/id1663051893?i=1000592505166",
+    "episode_title": "\"Microbiome and the Effect of Dietary Choices on Gut Health\" with Will Bulsiewicz, MD"
+  },
+  {
+    "topic_id": 18,
+    "topic": "The Crucial Role of Sleep in Overall Health",
+    "category": "Health_and_Fitness",
+    "episode_link": "https://podcasts.apple.com/us/podcast/sleep-is-important-for-overall-health/id1566380385?i=1000556460292",
+    "episode_title": "Sleep is Important for Overall Health"
+  },
+  {
+    "topic_id": 19,
+    "topic": "Contemporary Art as a Medium for Social Critique",
+    "category": "Arts",
+    "episode_link": "https://podcasts.apple.com/us/podcast/marina-warner-and-eleanor-birne-forms-of-enchantment/id734373360?i=1000422013276",
+    "episode_title": "Marina Warner and Eleanor Birne: Forms of Enchantment"
+  },
+  {
+    "topic_id": 20,
+    "topic": "The Evolution of Street Art: From Graffiti to Gallery",
+    "category": "Arts",
+    "episode_link": "https://podcasts.apple.com/us/podcast/chris-daze-ellis-from-street-artist-to-museum-collections/id647826736?i=1000373096381",
+    "episode_title": "Chris \u201cDaze\u201d Ellis: From Street Artist to Museum Collections"
+  },
+  {
+    "topic_id": 21,
+    "topic": "Narrative Structure in Film: Crafting Emotional Connections with Audiences",
+    "category": "Arts",
+    "episode_link": "https://podcasts.apple.com/us/podcast/keeping-global-audiences-in-mind-as-you-write-guest/id1378490238?i=1000446459677",
+    "episode_title": "Keeping Global Audiences in Mind as You Write | guest Weiko Lin - Ep37"
+  },
+  {
+    "topic_id": 22,
+    "topic": "How Music Influences Emotions",
+    "category": "Music",
+    "episode_link": "https://podcasts.apple.com/us/podcast/how-music-influences-your-emotions/id1558432345?i=1000513042858",
+    "episode_title": "How Music Influences Your Emotions"
+  },
+  {
+    "topic_id": 23,
+    "topic": "Exploring Contemporary Music Trends",
+    "category": "Music",
+    "episode_link": "https://podcasts.apple.com/us/podcast/music-trends-that-took-us-by-surprise-in-2023/id1250180134?i=1000638318132",
+    "episode_title": "Music trends that took us by surprise in 2023"
+  },
+  {
+    "topic_id": 24,
+    "topic": "The Rise of Electronic Music: Effects on Traditional Genres",
+    "category": "Music",
+    "episode_link": "https://podcasts.apple.com/us/podcast/martin-kohlstedt-piano-and-electronica/id1512947854?i=1000701039275",
+    "episode_title": "Martin Kohlstedt - Piano And Electronica"
+  },
+  {
+    "topic_id": 25,
+    "topic": "The Role of Sports Education in Youth Development",
+    "category": "Sports",
+    "episode_link": "https://podcasts.apple.com/us/podcast/176-sports-based-youth-development-and-sel-chapter-13/id1434195823?i=1000525589158",
+    "episode_title": "176: Sports Based Youth Development and SEL Chapter 13"
+  },
+  {
+    "topic_id": 26,
+    "topic": "Economic Impacts of Major Sporting Events on Urban Areas",
+    "category": "Sports",
+    "episode_link": "https://podcasts.apple.com/us/podcast/the-economic-impact-of-mega-sporting-events/id267300884?i=1000435533088",
+    "episode_title": "The economic impact of mega sporting events"
+  },
+  {
+    "topic_id": 27,
+    "topic": "Sports Psychology: Strategies to Enhance Athletic Performance",
+    "category": "Sports",
+    "episode_link": "https://podcasts.apple.com/us/podcast/team-new-balance-boston-coach-mark-coogans-physical/id1204506559?i=1000606349106",
+    "episode_title": "Team New Balance Boston Coach Mark Coogan's Physical and Psychological Strategies To Be The Best Runner"
+  },
+  {
+    "topic_id": 28,
+    "topic": "Ethical Controversies and Future Prospects of Gene Editing Technology",
+    "category": "Science_and_Technology",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/ft-tech-tonic/id1169101860?i=1000443917068",
+    "episode_title": "Jennifer Doudna on gene editing"
+  },
+  {
+    "topic_id": 29,
+    "topic": "The Transformative Impact of Artificial Intelligence on Daily Life and Work",
+    "category": "Science_and_Technology",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/the-artificial-intelligence-show/id1548733275?i=1000680961113",
+    "episode_title": "25 AI Questions for 2025"
+  },
+  {
+    "topic_id": 30,
+    "topic": "The Role and Responsibility of Tech Giants in Society",
+    "category": "Science_and_Technology",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/tech-giants-changing-society/id918976508?i=1000402509625&l=en-GB",
+    "episode_title": "Tech Giants Changing Society"
+  },
+  {
+    "topic_id": 31,
+    "topic": "The Industrial Revolution: Transformations in Social Structure",
+    "category": "History",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/echoes-of-history/id1615075257?i=1000662241008",
+    "episode_title": "The Industrial Revolution: The Birth Of Modern London"
+  },
+  {
+    "topic_id": 32,
+    "topic": "The Roots and Impact of the French Revolution",
+    "category": "History",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/the-rest-is-history/id1537788786?i=1000662730299",
+    "episode_title": "The French Revolution: Marie Antoinette (Part 1)"
+  },
+  {
+    "topic_id": 33,
+    "topic": "Exploring the Causes and Consequences of the American Civil War",
+    "category": "History",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/the-rest-is-history/id1537788786?i=1000567780922",
+    "episode_title": "American Civil War: The Causes (Part 1)"
+  },
+  {
+    "topic_id": 34,
+    "topic": "The Role of Media in Shaping Public Perceptions of True Crime",
+    "category": "True_Crime",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/new-yorks-finest-retired-unfiltered-podcast/id1636574356?i=1000621394017",
+    "episode_title": "NYC Mayor blames the media\u2019s coverage of crime for the perception the public has of crime in NYC"
+  },
+  {
+    "topic_id": 35,
+    "topic": "Ted Bundy: The Duality of Charm and Brutality",
+    "category": "True_Crime",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/i-could-murder-a-podcast/id1526926849?i=1000644173480",
+    "episode_title": "Ted Bundy: The Lady Killer"
+  },
+  {
+    "topic_id": 36,
+    "topic": "Captive Minds: The Stockholm Heist and Stockholm Syndrome",
+    "category": "True_Crime",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/i-can-steal-that/id1286588508?i=1000513215890",
+    "episode_title": "EP 47 - The Heist That Gave Us Stockholm Syndrome"
+  },
+  {
+    "topic_id": 37,
+    "topic": "Building Strong Parent-Child Relationships Through Family Activities",
+    "category": "Kids_and_Family",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/9-activities-that-can-build-relationships-between-parents/id1587359461?i=1000536513839&l=en-GB",
+    "episode_title": "9 Activities That Can Build Relationships Between Parents and Kids [Podcast]"
+  },
+  {
+    "topic_id": 38,
+    "topic": "Navigating Children\u2019s Internet Use: Strategies for Modern Parents",
+    "category": "Kids_and_Family",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/parents-vs-the-internet/id1767442677?i=1000677277531",
+    "episode_title": "10: The material steps parents can take to protect their children online"
+  },
+  {
+    "topic_id": 39,
+    "topic": "Identifying and Addressing Mental Health Issues in Children",
+    "category": "Kids_and_Family",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/i-have-issues-psychology-with-dr-mark-rackley/id1674673270?i=1000615630359",
+    "episode_title": "Episode 8 MENTAL HEALTH IN CHILDREN - Interview With Expert Child Psychologist Dr Maile O'Hara"
+  },
+  {
+    "topic_id": 40,
+    "topic": "\"Black Mirror\": Exploring Humanity's Relationship with Technology",
+    "category": "TV_and_Film",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/unbinged/id1754469851?i=1000702841487",
+    "episode_title": "'Black Mirror: USS Callister' Rebinged"
+  },
+  {
+    "topic_id": 41,
+    "topic": "Character Development and Narrative Structure in \"Game of Thrones\"",
+    "category": "TV_and_Film",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/we-know-game-of-thrones/id847883565?i=1000658214055",
+    "episode_title": "Game of Thrones Re-Watch | Season 1, Ep #7: Winter Was Here"
+  },
+  {
+    "topic_id": 42,
+    "topic": "Narrative Techniques and Fan Culture in the Marvel Universe",
+    "category": "TV_and_Film",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/nerdificent/id1361635154?i=1000409709293",
+    "episode_title": "Episode 4: Marvel Cinematic Universe"
+  },
+  {
+    "topic_id": 43,
+    "topic": "The Allure of Nature: Embracing Outdoor Activities",
+    "category": "Leisure",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/fika-with-us/id1505701830?i=1000614557257",
+    "episode_title": "Outdoor activities"
+  },
+  {
+    "topic_id": 44,
+    "topic": "Community Activities: Fostering Strong Neighborhood Relationships",
+    "category": "Leisure",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/good-day-vail/id1680425420?i=1000607032035",
+    "episode_title": "Vail Community - activities"
+  },
+  {
+    "topic_id": 45,
+    "topic": "Balancing Work and Leisure: Strategies for Modern Living",
+    "category": "Leisure",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/the-word-on-fire-show-catholic-faith-and-culture/id1065019039?i=1000688484741",
+    "episode_title": "WOF 475: How to Balance Work and Leisure"
+  },
+  {
+    "topic_id": 46,
+    "topic": "Characteristics and Key Works of Magical Realism",
+    "category": "Fiction",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/rah-podcast/id1460257201?i=1000481764535",
+    "episode_title": "Magical Realism"
+  },
+  {
+    "topic_id": 47,
+    "topic": "Science Fiction: Predictions and Their Impact on Technological Development",
+    "category": "Fiction",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/start-the-week/id131131620?i=1000326025721",
+    "episode_title": "Science Fiction"
+  },
+  {
+    "topic_id": 48,
+    "topic": "Building Suspense in Mystery Novels: Crafting Tension and Intrigue",
+    "category": "Fiction",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/murder-and-mayhem-get-inside-the-dark-minds-of/id1137011984?i=1000373973455",
+    "episode_title": "MURDER MAYHEM 11: Marele Day is a crime author of several mystery novels and the non-fiction book \"How to Write Crime\"."
+  },
+  {
+    "topic_id": 49,
+    "topic": "Understanding Symptoms of Anxiety Disorders and Effective Coping Strategies",
+    "category": "Mental_Health",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/inside-mental-health/id1175777581?i=1000595403168",
+    "episode_title": "Managing Anxiety vs Anxiety Disorders (and Knowing the Differences)"
+  },
+  {
+    "topic_id": 50,
+    "topic": "Psychological Trauma: Insights into Post-Traumatic Stress Disorder (PTSD)",
+    "category": "Mental_Health",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/life-after-ptsd-podcast-healing-from-trauma/id1448130626?i=1000577912485",
+    "episode_title": "Deep Dive with Dr. Dituri and Dr. Royster"
+  },
+  {
+    "topic_id": 51,
+    "topic": "Practical Stress Management Techniques and Practices",
+    "category": "Mental_Health",
+    "episode_link": "https://podcasts.apple.com/hk/podcast/beat-stress-with-science-4-key-techniques-for-stress/id1611216298?i=1000644626247&l=en-GB",
+    "episode_title": "Beat stress with science: 4 key techniques for stress relief with Dr Rangan Chatterjee"
+  }
+]

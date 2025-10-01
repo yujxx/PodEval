@@ -1,0 +1,9 @@
+session_test_id,username,gender,Age,session_uuid,trial_id,rating_stimulus,rating_score,rating_time/ms,rating_comment
+default_example,test,female,20-40,31ceac01-1e49-4115-a042-4a7b0d73d0af,trial1,anchor35,100,1944,
+default_example,test,female,20-40,31ceac01-1e49-4115-a042-4a7b0d73d0af,trial1,C1,100,1944,
+default_example,test,female,20-40,31ceac01-1e49-4115-a042-4a7b0d73d0af,trial1,anchor70,100,1944,
+default_example,test,female,20-40,31ceac01-1e49-4115-a042-4a7b0d73d0af,trial1,C2,100,1944,
+default_example,test,female,20-40,31ceac01-1e49-4115-a042-4a7b0d73d0af,trial1,C3,100,1944,
+default_example,test,female,20-40,31ceac01-1e49-4115-a042-4a7b0d73d0af,trial_random_1,C3,100,1358,
+default_example,test,female,20-40,31ceac01-1e49-4115-a042-4a7b0d73d0af,trial_random_1,C2,100,1358,
+default_example,test,female,20-40,31ceac01-1e49-4115-a042-4a7b0d73d0af,trial_random_1,C1,100,1358,

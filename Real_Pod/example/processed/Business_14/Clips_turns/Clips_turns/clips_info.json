@@ -1,0 +1,160 @@
+{
+  "audio_file": "example/processed/Business_14/vocals.wav",
+  "total_clips": 14,
+  "clips": [
+    {
+      "dialog_id": 1,
+      "audio_file": "dialog_1_SPEAKER_00-SPEAKER_02_25.12-42.40.wav",
+      "time_range": {
+        "start": 25.12,
+        "end": 42.4
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "If you've pioneered this customer's speed and approach at your previous company, it boosted brand loyalty a bunch, right? Can you share more about your experiences, you know? Sure thing. From what I've seen, going all in on a customer's speed and approach can really boost brand"
+    },
+    {
+      "dialog_id": 2,
+      "audio_file": "dialog_2_SPEAKER_02-SPEAKER_00_49.36-69.36.wav",
+      "time_range": {
+        "start": 49.36,
+        "end": 69.36
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_00",
+      "text": "For example, in my last job, we totally refocused our strategy around customers. And it led to a 20% rise in brand loyalty. That's really interesting. And how did your strategies help build brand loyalty and crowded markets like today?"
+    },
+    {
+      "dialog_id": 3,
+      "audio_file": "dialog_3_SPEAKER_00-SPEAKER_02_59.72-77.44.wav",
+      "time_range": {
+        "start": 59.72,
+        "end": 77.44
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "That's really interesting. And how did your strategies help build brand loyalty and crowded markets like today? In a bustling market, you know, being unique is super important. We do this by offering unique value propositions."
+    },
+    {
+      "dialog_id": 4,
+      "audio_file": "dialog_4_SPEAKER_02-SPEAKER_00_77.44-98.16.wav",
+      "time_range": {
+        "start": 77.44,
+        "end": 98.16
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_00",
+      "text": "It means always doing market research and being agile at TechSoft. The Taylor R offers to like exceed customer expectations, making us stand out. Your insights on customer engagement and digital platforms are like super enlightening. Now let's turn to John."
+    },
+    {
+      "dialog_id": 5,
+      "audio_file": "dialog_5_SPEAKER_00-SPEAKER_01_89.56-115.80.wav",
+      "time_range": {
+        "start": 89.56,
+        "end": 115.8
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "Your insights on customer engagement and digital platforms are like super enlightening. Now let's turn to John. Can you like discuss the role of emotional connection in brand loyalty? For sure, the emotional connection between a brand and consumer is like key. However at ConsultWell, we always focus on crafting brand stories that align with what"
+    },
+    {
+      "dialog_id": 6,
+      "audio_file": "dialog_6_SPEAKER_01-SPEAKER_00_108.76-131.28.wav",
+      "time_range": {
+        "start": 108.76,
+        "end": 131.28
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "However at ConsultWell, we always focus on crafting brand stories that align with what consumers like, see in themselves, you know, it really helps in building strong loyalty. Sounds like a pretty unique approach. So how do you deal with a heavily crowded market then?"
+    },
+    {
+      "dialog_id": 7,
+      "audio_file": "dialog_7_SPEAKER_00-SPEAKER_01_122.60-144.04.wav",
+      "time_range": {
+        "start": 122.6,
+        "end": 144.04
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "Sounds like a pretty unique approach. So how do you deal with a heavily crowded market then? Our way revolves around differentiation, personalization, and like engagement. We help brands, you know, tell unique stories and use data to personalize customer experiences."
+    },
+    {
+      "dialog_id": 8,
+      "audio_file": "dialog_8_SPEAKER_01-SPEAKER_00_137.36-158.84.wav",
+      "time_range": {
+        "start": 137.36,
+        "end": 158.84
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "We help brands, you know, tell unique stories and use data to personalize customer experiences. We also like make a two way condos with consumers, boosting investment and loyalty. Both of you, Sarah and John have liked, shared some really impressive campaigns. Care to, you know, elaborate."
+    },
+    {
+      "dialog_id": 9,
+      "audio_file": "dialog_9_SPEAKER_00-SPEAKER_02_149.80-166.68.wav",
+      "time_range": {
+        "start": 149.8,
+        "end": 166.68
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "Both of you, Sarah and John have liked, shared some really impressive campaigns. Care to, you know, elaborate. Sure. So we had this customer first thing where we shared stories about how our services like"
+    },
+    {
+      "dialog_id": 10,
+      "audio_file": "dialog_10_SPEAKER_02-SPEAKER_01_159.84-184.28.wav",
+      "time_range": {
+        "start": 159.84,
+        "end": 184.28
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "So we had this customer first thing where we shared stories about how our services like made a positive difference in customers' lives. It really boosted retention rates. Yeah, for a tech fitness company, we focused on personal transformations in the campaign. It was all about storytelling and, you know, highlighting personal successes."
+    },
+    {
+      "dialog_id": 11,
+      "audio_file": "dialog_11_SPEAKER_01-SPEAKER_00_172.96-195.36.wav",
+      "time_range": {
+        "start": 172.96,
+        "end": 195.36
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "Yeah, for a tech fitness company, we focused on personal transformations in the campaign. It was all about storytelling and, you know, highlighting personal successes. This shifted the con bows to the user's journey and, uh, ensured lasting loyalty. Such great campaigns, you guys. So, uh, any predictions on what the future holds for brand loyalty?"
+    },
+    {
+      "dialog_id": 12,
+      "audio_file": "dialog_12_SPEAKER_00-SPEAKER_02_189.20-208.08.wav",
+      "time_range": {
+        "start": 189.2,
+        "end": 208.08
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "Such great campaigns, you guys. So, uh, any predictions on what the future holds for brand loyalty? Well, ah, it's in all going to be about personalization and like predictive analysis, using data to, uh, anticipate needs while creating personal interactions with like, be crucial."
+    },
+    {
+      "dialog_id": 13,
+      "audio_file": "dialog_13_SPEAKER_02-SPEAKER_01_195.36-214.60.wav",
+      "time_range": {
+        "start": 195.36,
+        "end": 214.6
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "Well, ah, it's in all going to be about personalization and like predictive analysis, using data to, uh, anticipate needs while creating personal interactions with like, be crucial. You need a real culture of innovation to build meaningful customer relationships. Yeah, totally agree."
+    },
+    {
+      "dialog_id": 14,
+      "audio_file": "dialog_14_SPEAKER_01-SPEAKER_00_219.24-243.28.wav",
+      "time_range": {
+        "start": 219.24,
+        "end": 243.28
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "Things need to, uh, integrate tech like AI to better meet needs and adapt to societal shifts while staying relevant. Being proactive and flexible in strategies will like meet future expectations. Thanks, Sarah and John, for your awesome insights. We've, um, learned a lot about like building brand loyalty in today or crowded marketplace."
+    }
+  ]
+}

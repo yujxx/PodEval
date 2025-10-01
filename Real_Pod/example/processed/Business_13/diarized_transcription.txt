@@ -1,0 +1,62 @@
+[Speaker SPEAKER_01] [0.00-1.64]:  Hey, good evening everyone.
+[Speaker SPEAKER_01] [1.64-5.36]:  Welcome to um, tonight episode of industry innovators.
+[Speaker SPEAKER_01] [5.36-10.24]:  I'm your host Alex, and tonight we're gonna like dive into David versus Goliath, you know,
+[Speaker SPEAKER_01] [10.24-14.72]:  like how small businesses can compete against big corporations.
+[Speaker SPEAKER_01] [14.72-19.52]:  We've got uh, two awesome guests with us, Elizabeth Hawthorne, who's like a big name
+[Speaker SPEAKER_01] [19.52-21.16]:  in tech and Marcus Yee.
+[Speaker SPEAKER_01] [21.16-26.40]:  Ah, he's making waves in independent game development, so uh, welcome guys.
+[Speaker SPEAKER_00] [26.40-38.48]:  Yeah, thanks Alex, really excited to be here and chat about our strategies and stuff.
+[Speaker SPEAKER_02] [38.48-45.20]:  Totally excited Alex, looking forward to uh, sharing some gaming insights and like learning
+[Speaker SPEAKER_02] [45.20-46.68]:  from Elizabeth too.
+[Speaker SPEAKER_01] [46.68-50.60]:  Cool, so Elizabeth, um, let's start with you.
+[Speaker SPEAKER_01] [50.60-55.72]:  Your success in um, the tech world is like super inspiring.
+[Speaker SPEAKER_01] [55.72-61.40]:  How did um, innovation and partnership, you know, play into your game plan?
+[Speaker SPEAKER_00] [61.40-67.32]:  Well, yeah, like from the start we wanted to um, be ahead and tech, not just following,
+[Speaker SPEAKER_00] [67.32-72.88]:  but like creating new solutions, partnerships, you know, are uh, super important.
+[Speaker SPEAKER_00] [72.88-78.40]:  They help us get into new markets and uh, combine our strengths and um, taking care of
+[Speaker SPEAKER_00] [78.40-81.88]:  our employees has been like really key for us too.
+[Speaker SPEAKER_01] [81.88-85.44]:  Embracing change, huh?
+[Speaker SPEAKER_01] [85.44-91.00]:  So uh, Marcus, how's your gaming studio been handling like tech shifts?
+[Speaker SPEAKER_02] [91.00-93.92]:  Yeah, that's uh, spot on.
+[Speaker SPEAKER_02] [93.92-98.28]:  Alex, keeping up with tech trends is like super crucial.
+[Speaker SPEAKER_02] [98.28-103.20]:  We've been you know, using AI and stuff for smarter Bible and checking out augmented reality
+[Speaker SPEAKER_02] [103.20-105.64]:  for better experiences.
+[Speaker SPEAKER_02] [105.64-110.84]:  It's uh, all about offering something fresh and uh, such a crowded market.
+[Speaker SPEAKER_01] [110.84-115.32]:  Speaking of challenges, Elizabeth, you talked about the um,
+[Speaker SPEAKER_01] [115.32-118.12]:  2008 economic downturn.
+[Speaker SPEAKER_01] [118.12-120.40]:  How'd your company deal with that?
+[Speaker SPEAKER_00] [120.40-126.24]:  Oh, yeah, the downturn was like tough, but we saw it um, as a chance to push our R and
+[Speaker SPEAKER_00] [126.24-133.12]:  D and you know, go towards imitative products and um, online presence with digital stuff.
+[Speaker SPEAKER_00] [133.12-139.52]:  It wasn't easy, but um, it set us up for you know, better results later.
+[Speaker SPEAKER_01] [139.52-141.80]:  Strategic moves for sure, Marcus.
+[Speaker SPEAKER_01] [141.80-146.84]:  Your industry had um, a shake up with app store policy changes.
+[Speaker SPEAKER_01] [146.84-147.84]:  What do you guys do?
+[Speaker SPEAKER_02] [147.84-151.04]:  Yeah, that was a hard time.
+[Speaker SPEAKER_02] [151.04-159.56]:  We switched from um, adds to a freemium model, which was a big change for us, but um,
+[Speaker SPEAKER_02] [159.56-164.56]:  adapting was really important to you know, keep the business going.
+[Speaker SPEAKER_01] [164.56-172.36]:  Elizabeth, managing short term profits and um, long term growth must be pretty tricky
+[Speaker SPEAKER_01] [172.36-176.16]:  right, especially with uh, ethical stuff.
+[Speaker SPEAKER_00] [176.16-179.36]:  Yeah, laxity um, all about balance.
+[Speaker SPEAKER_00] [179.36-183.72]:  We invest in growth areas, make sure our customers are happy and uh, don't compromise
+[Speaker SPEAKER_00] [183.72-185.00]:  on ethics.
+[Speaker SPEAKER_00] [185.00-189.96]:  Our um, social responsibility framework helps keep us you know, on the right path with
+[Speaker SPEAKER_00] [189.96-193.56]:  ethics and that boosts customer loyalty and growth.
+[Speaker SPEAKER_01] [193.56-197.12]:  And Marcus that balance in the gaming world um, must be different.
+[Speaker SPEAKER_01] [197.12-198.12]:  What's your take?
+[Speaker SPEAKER_02] [198.12-199.72]:  For sure, Alex.
+[Speaker SPEAKER_02] [199.72-207.12]:  We um, focus on growing patiently, putting money into our and Dity and uh, staying ethical
+[Speaker SPEAKER_02] [207.12-211.52]:  for us, um, responsible gaming super important.
+[Speaker SPEAKER_02] [211.52-215.80]:  We don't do any um, predatory monetization.
+[Speaker SPEAKER_02] [215.80-218.16]:  We want to give real value to our players.
+[Speaker SPEAKER_01] [218.16-226.08]:  Okay, before we um, wrap up any uh, advice for small businesses or um, smart hooks trying
+[Speaker SPEAKER_01] [226.08-236.72]:  to compete with like the big guys.
+[Speaker SPEAKER_00] [236.72-243.72]:  I'd say um, focus on what makes you special, innovate, take risks when they um, make sense
+[Speaker SPEAKER_00] [243.72-250.52]:  and keep your team, you know, happy, always think about ethics in uh, your decisions.
+[Speaker SPEAKER_02] [250.52-255.52]:  Find your unique thing and uh, don't skimp on quality, use tech.
+[Speaker SPEAKER_02] [255.52-260.88]:  Build a community around your stuff and be ready to um, adapt being small means.
+[Speaker SPEAKER_02] [260.88-264.00]:  Uh, you can change quickly, so use that.
+[Speaker SPEAKER_01] [264.00-266.40]:  What a um, great chat.
+[Speaker SPEAKER_01] [266.40-273.24]:  Thanks Elizabeth and Marcus for sharing uh, your stories and tips and uh, to our viewers.
+[Speaker SPEAKER_01] [273.24-278.16]:  Hope you um, feel empowered to tackle your own David versus Goliath.
+[Speaker SPEAKER_01] [278.16-282.84]:  Battles thanks for uh, tuning in to industry innovators.
+[Speaker SPEAKER_01] [282.84-283.24]:  Good night.

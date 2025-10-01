@@ -1,0 +1,27 @@
+{
+  "audio_file": "example/processed/Business_15/vocals.wav",
+  "selected_clips": [
+    {
+      "dialog_id": 2,
+      "audio_file": "dialog_2_SPEAKER_01-SPEAKER_02_63.76-78.28.wav",
+      "time_range": {
+        "start": 63.76,
+        "end": 78.28
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "to actually predicting future trends, you know. Data analysis is like totally central to business decisions now. Whoa, that's quite the change, huh? But like getting into this whole data thing must come with, you know, some challenges right?"
+    },
+    {
+      "dialog_id": 14,
+      "audio_file": "dialog_14_SPEAKER_01-SPEAKER_00_192.08-213.88.wav",
+      "time_range": {
+        "start": 192.08,
+        "end": 213.88
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "I think investing in data, infrastructure, training people and uh, making sure everyone sees the value in data, driven insights is key. Absolutely agree with Dr. Morris also, like fostering a culture of data, literacy, investing and flexible infrastructure and building partnerships can uh, give better insights."
+    }
+  ]
+}

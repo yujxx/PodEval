@@ -1,0 +1,193 @@
+{
+  "audio_file": "example/processed/Arts_19/vocals.wav",
+  "total_clips": 17,
+  "clips": [
+    {
+      "dialog_id": 1,
+      "audio_file": "dialog_1_SPEAKER_02-SPEAKER_01_35.20-57.16.wav",
+      "time_range": {
+        "start": 35.2,
+        "end": 57.16
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "that kind of stir up social commentaries. And Dr. Ethan Liu, an art historian who like really dives deep into art movements with his analysis. So thanks for being here, Sophia and Ethan. Yeah, thanks Alex. It's really great to be here and share what I've been like working"
+    },
+    {
+      "dialog_id": 2,
+      "audio_file": "dialog_2_SPEAKER_01-SPEAKER_00_47.08-62.96.wav",
+      "time_range": {
+        "start": 47.08,
+        "end": 62.96
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "and Ethan. Yeah, thanks Alex. It's really great to be here and share what I've been like working on with your listeners. Yeah, I appreciate the invite Alex. It's always awesome to kind of chat"
+    },
+    {
+      "dialog_id": 3,
+      "audio_file": "dialog_3_SPEAKER_00-SPEAKER_02_57.16-79.00.wav",
+      "time_range": {
+        "start": 57.16,
+        "end": 79.0
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "on with your listeners. Yeah, I appreciate the invite Alex. It's always awesome to kind of chat about the importance of, you know, contemporary art. Um, Sophia, you've described contemporary art as like a mural and megaphone for society. Could you kind of break down that idea for us? Sure, Alex."
+    },
+    {
+      "dialog_id": 4,
+      "audio_file": "dialog_4_SPEAKER_02-SPEAKER_01_62.96-93.32.wav",
+      "time_range": {
+        "start": 62.96,
+        "end": 93.32
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "about the importance of, you know, contemporary art. Um, Sophia, you've described contemporary art as like a mural and megaphone for society. Could you kind of break down that idea for us? Sure, Alex. So what I mean is art kind of reflects what's happening right now and like boosts voices on social issues like stuff like gender inequality or environmental degradation. I'm trying to, you know,"
+    },
+    {
+      "dialog_id": 5,
+      "audio_file": "dialog_5_SPEAKER_01-SPEAKER_02_87.00-111.48.wav",
+      "time_range": {
+        "start": 87.0,
+        "end": 111.48
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "issues like stuff like gender inequality or environmental degradation. I'm trying to, you know, provoke emotions and like spark conversation that leads to hopefully action. And you're rising tied peace is about climate change, right? How does it create like that immerseek experience? Yeah,"
+    },
+    {
+      "dialog_id": 6,
+      "audio_file": "dialog_6_SPEAKER_02-SPEAKER_01_102.28-124.60.wav",
+      "time_range": {
+        "start": 102.28,
+        "end": 124.6
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "tied peace is about climate change, right? How does it create like that immerseek experience? Yeah, by using real debris from coastlines, I kind of set up a space where people can like feel the effects of sea level rise. It's all about, uh, engaging the senses to make the issue feel, you know,"
+    },
+    {
+      "dialog_id": 7,
+      "audio_file": "dialog_7_SPEAKER_01-SPEAKER_02_112.44-138.04.wav",
+      "time_range": {
+        "start": 112.44,
+        "end": 138.04
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "by using real debris from coastlines, I kind of set up a space where people can like feel the effects of sea level rise. It's all about, uh, engaging the senses to make the issue feel, you know, more real than just numbers. Ethan, um, your work on street art. How do you see like it's impact on challenging systemic injustices? Yeah, Alex. Street art is like a really spontaneous and"
+    },
+    {
+      "dialog_id": 8,
+      "audio_file": "dialog_8_SPEAKER_02-SPEAKER_00_124.60-151.24.wav",
+      "time_range": {
+        "start": 124.6,
+        "end": 151.24
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_00",
+      "text": "more real than just numbers. Ethan, um, your work on street art. How do you see like it's impact on challenging systemic injustices? Yeah, Alex. Street art is like a really spontaneous and powerful way for artists to connect with communities like folks like Banksy and Shepherd ferry set off, um, immediate conversations on the streets, you know, they kind of intervene"
+    },
+    {
+      "dialog_id": 9,
+      "audio_file": "dialog_9_SPEAKER_00-SPEAKER_02_138.04-158.52.wav",
+      "time_range": {
+        "start": 138.04,
+        "end": 158.52
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "powerful way for artists to connect with communities like folks like Banksy and Shepherd ferry set off, um, immediate conversations on the streets, you know, they kind of intervene directly in social debates. Sophia, you talked about how art might like influence policy. Could you"
+    },
+    {
+      "dialog_id": 10,
+      "audio_file": "dialog_10_SPEAKER_02-SPEAKER_01_151.24-172.28.wav",
+      "time_range": {
+        "start": 151.24,
+        "end": 172.28
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "directly in social debates. Sophia, you talked about how art might like influence policy. Could you give us an idea of how that's supposed to work? Art, in my opinion, kind of lays the groundwork for change, you know, like one piece might not change laws right away, but it's really all the art"
+    },
+    {
+      "dialog_id": 11,
+      "audio_file": "dialog_11_SPEAKER_01-SPEAKER_02_166.12-196.52.wav",
+      "time_range": {
+        "start": 166.12,
+        "end": 196.52
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "change, you know, like one piece might not change laws right away, but it's really all the art together that starts ripples. By keeping social issues in front of people, art can like shift opinions and eventually maybe shape policies. Ah, intersensuality seems to like play a big role in both your views. So, uh, how crucial is this in contemporary art? Yeah, Alex, intersectionality"
+    },
+    {
+      "dialog_id": 12,
+      "audio_file": "dialog_12_SPEAKER_02-SPEAKER_00_178.20-211.40.wav",
+      "time_range": {
+        "start": 178.2,
+        "end": 211.4
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_00",
+      "text": "opinions and eventually maybe shape policies. Ah, intersensuality seems to like play a big role in both your views. So, uh, how crucial is this in contemporary art? Yeah, Alex, intersectionality brings like more depth to narratives, artists like, um, Keyhinde Wiley or Kara Walker push us to rethink, you know, race, history and identity. By weaving in all these experiences, art challenges"
+    },
+    {
+      "dialog_id": 13,
+      "audio_file": "dialog_13_SPEAKER_00-SPEAKER_01_196.68-225.32.wav",
+      "time_range": {
+        "start": 196.68,
+        "end": 225.32
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "brings like more depth to narratives, artists like, um, Keyhinde Wiley or Kara Walker push us to rethink, you know, race, history and identity. By weaving in all these experiences, art challenges simple views and makes our dialogue richer. Emphun, by blending different identities, like, uh, whether it's race, gender or class, I'm trying to, um, create a complex tapestry of stories."
+    },
+    {
+      "dialog_id": 14,
+      "audio_file": "dialog_14_SPEAKER_01-SPEAKER_02_218.28-238.04.wav",
+      "time_range": {
+        "start": 218.28,
+        "end": 238.04
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "whether it's race, gender or class, I'm trying to, um, create a complex tapestry of stories. It's like inviting people to think about all the human experiences right. It's this depth that kind of amplifies the impact of art. Uh, so how do you think artists should like engage"
+    },
+    {
+      "dialog_id": 15,
+      "audio_file": "dialog_15_SPEAKER_02-SPEAKER_01_231.64-249.24.wav",
+      "time_range": {
+        "start": 231.64,
+        "end": 249.24
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "that kind of amplifies the impact of art. Uh, so how do you think artists should like engage with the community to make their work more relatable? Yeah, acceptability is like super important. Uh, I work on public projects and use digital platforms to kind of reach more folks. It's about"
+    },
+    {
+      "dialog_id": 16,
+      "audio_file": "dialog_16_SPEAKER_01-SPEAKER_00_243.88-267.80.wav",
+      "time_range": {
+        "start": 243.88,
+        "end": 267.8
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "Uh, I work on public projects and use digital platforms to kind of reach more folks. It's about creating a dialogue where art isn't just for galleries, but, uh, it's the streets, the screens, and everyday folks conversations. Right by focusing on engagement, contemporary art should, uh, make sure people can access it easily. Through public installations, social media, um, and educational"
+    },
+    {
+      "dialog_id": 17,
+      "audio_file": "dialog_17_SPEAKER_00-SPEAKER_02_261.00-289.48.wav",
+      "time_range": {
+        "start": 261.0,
+        "end": 289.48
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "make sure people can access it easily. Through public installations, social media, um, and educational stuff, artists like Sophia are bringing art to the community, sparking chats and driving change. Yeah, it's um, clear that contemporary art kind of holds a mirror to our world, like pushing us to reflect, talk and act. Thanks, Sophia Marquez and Dr. Ethan Liu for, uh, sharing your thoughts"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "audio_file": "example/processed/Arts_20/vocals.wav",
+  "selected_clips": [
+    {
+      "dialog_id": 12,
+      "audio_file": "dialog_12_SPEAKER_00-SPEAKER_01_180.18-200.18.wav",
+      "time_range": {
+        "start": 180.18,
+        "end": 200.18
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "community action and discussions, especially on stuff like gentrification. With my non-Preddit, we use street art to start conversations, often leading to changes in public policy and urban planning, you know. Street art sure has wide reaching effects. Looking ahead Alex, what do you think is next for street art?"
+    },
+    {
+      "dialog_id": 8,
+      "audio_file": "dialog_8_SPEAKER_00-SPEAKER_01_129.70-147.90.wav",
+      "time_range": {
+        "start": 129.7,
+        "end": 147.9
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_01",
+      "text": "Definitely digital tech expands street art beyond just walls, right? My research shows artists are using like social media to share and interact, expanding what we even think of as street and street art. Interesting. So Alex street art impacts communities a lot. Yeah, what have been your experience?"
+    }
+  ]
+}

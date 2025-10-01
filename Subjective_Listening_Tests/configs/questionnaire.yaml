@@ -1,0 +1,251 @@
+testname: Podcast Evaluation Questionnaire 
+testId: questionnaire
+bufferSize: 2048
+stopOnErrors: true
+showButtonPreviousPage: true
+remoteService: service/write.php
+
+
+
+pages: 
+    - type: generic
+      id: first_page
+      name:  <span class="highlight"> Welcome to the Podcast Evaluation Questionnaire!</span>
+      content: <p></p>
+        <span class="content-header">Study Description:</span> 
+        <p>In this study, we aim to collect <span class="highlight">authentic feedback</span> on podcast audio clips. You will listen to <span class="highlight">4 different podcast audio files</span>, each discussing potentially different topics. The primary goal of this research is to evaluate the <span class="highlight">overall production quality</span> of the podcast segments, rather than the specific content or themes being discussed.</p>
+
+        <p>Each audio clip is approximately <span class="highlight">3 minutes long</span> and is constructed by combining three key segments from a full podcast episode:</p>
+        <p>&lt;The <span class="highlight">first</span> minute | The <span class="highlight">middle</span> minute | The <span class="highlight">final</span> minute&gt;</p>
+        <p>A brief notification sound will indicate the transitions between these segments.</p>
+
+        </br>
+        <span class="content-header">About the questionnaire:</span>
+        <p>It consists of 8 questions, which are designed to assess the podcast audio across multiple dimensions, such as:</p>
+        <ul>
+          <li>Speaker’s expression / Information delivery</li>
+          <li>Audio quality / engagingness / music or sound effect harmony</li>
+        </ul>
+        <span class="content-header">Notice:</span> 
+        <ul>
+        <li>We kindly ask you to <span class="highlight">avoid</span> rating based on the <span class="highlight">discussion</span> topic and instead focus on the requested dimension.</li>
+        <li>Please <span class="highlight">listen to each audio carefully</span>, ideally using <span class="highlight">headphones</span> for optimal clarity.</li>
+        <li><span class="highlight">Incomplete or insincere responses</span> may be subject to return. We kindly ask you to provide thoughtful and genuine feedback to ensure the effectiveness of this study.</li>
+        <li>Please enter your <span class="highlight">Prolific ID</span> as the <span class="highlight">"Username"</span> in the final submission page. </li>
+        </ul>       
+        <p>Your feedback is <span class="highlight">extremely valuable</span>. Thank you for your participation!</p>
+        
+        
+          
+    - type: likert_single_stimulus
+      id: System1
+      name: System
+      content:  
+      showWaveform: true
+      mustRate: true
+      randomize: true
+      maxStimuli: 4
+      stimuli:
+          Social_mossttsd: configs/resources/audio/mos_samples/mossttsd/Society_and_Culture_1.wav
+          Social_notebooklm: configs/resources/audio/mos_samples/notebooklm/Society_and_Culture_2.wav
+          Social_podagent: configs/resources/audio/mos_samples/podagent/Society_and_Culture_2.wav
+          Social_realpod: configs/resources/audio/mos_samples/realpod/Society_and_Culture_2.wav
+      response:
+        -
+          - value: 
+            label: Q1. <span class="highlight">How many speakers</span> are there in the podcast?
+            type: text
+        - 
+          - value: 
+            label: Q2. How satisfied are you with the podcast's <span class="highlight">audio quality</span> (e.g., clarity, volume levels, background noise)?
+            type: rate2
+            rate: 5
+            rate_labels:
+              - "Very dissatisfied"
+              - "Dissatisfied"
+              - "Neutral"
+              - "Satisfied"
+              - "Very satisfied"
+        - 
+          - value: 
+            label: Why? (Required but can be simple. The same requirement for other "Why?" questions.)
+            type: text
+        -
+          - value: 
+            label: Q3. Do you like the way the guests and hosts <span class="highlight">express</span> themselves?
+            type: rate2
+            rate: 5
+            rate_labels:
+              - "Strongly dislike it"
+              - "Dislike it"
+              - "Neutral"
+              - "Like it"
+              - "Love it"
+        - 
+          - value: 
+            label: Why?
+            type: text
+        -
+          - value: 
+            label: Q4. Do you think the speakers are <span class="highlight">effectively</span> delivering the information?
+            type: rate2
+            rate: 5
+            rate_labels:
+              - "Not at all effectively"
+              - "Not very effectively"
+              - "Neutral"
+              - "Somewhat effectively"
+              - "Very effectively"
+        - 
+          - value: 
+            label: Why?
+            type: text
+        -
+          - value: 
+            label: Q5. If <span class="highlight">music or sound effects</span> are present, do they <span class="highlight">enhance or interfere</span> with the content? (Select Neutral if none are present)
+            type: rate2
+            rate: 5
+            rate_labels:
+              - "Greatly interfere"
+              - "Somewhat interfere"
+              - "Neutral"
+              - "Somewhat enhance"
+              - "Greatly enhance"
+        - 
+          - value: 
+            label: Why?
+            type: text
+        -
+          - value: 
+            label: Q6. How <span class="highlight">engaging</span> is the podcast?
+            type: rate2
+            rate: 5
+            rate_labels:
+              - "Not engaging at all"
+              - "Slightly engaging"
+              - "Neutral"
+              - "Engaging"
+              - "Extremely engaging"
+        - 
+          - value: 
+            label: Why?
+            type: text
+        -
+          - value: 
+            label: Q7. How likely are you to listen to the <span class="highlight">full episode</span> after hearing this?
+            type: rate2
+            rate: 5
+            rate_labels:
+              - "Not likely at all"
+              - "Slightly likely"
+              - "Neutral"
+              - "Likely"
+              - "Very likely"
+        - 
+          - value: 
+            label: Why?
+            type: text
+        -
+          - type: rate2
+            label: Q8. Does the podcast sound like it was created by <span class="highlight">humans</span> rather than <span class="highlight">AI</span>?
+            rate: 5
+            rate_labels:
+              - "Definitely AI"
+              - "More like AI"
+              - "Neutral -- Could be either human or AI"
+              - "More like humans"
+              - "Definitely humans"
+        - 
+          - value: 
+            label: Why?
+            type: text
+        -
+          - value: 
+            label: Q9. (Optional) Any additional comments on this podcast audio?
+            type: option
+            optional: true
+            
+        
+    - type: finish
+      name: Thank you
+      content: Thank you for attending!
+      showResults: true
+      writeResults: true
+      questionnaire:
+          - type: text
+            label: Username
+            name: username
+          - type: likert
+            name: gender
+            label: Gender
+            response:
+              - type: select
+                select_value: Female/Male/Other
+          - type: likert
+            name: Age
+            label: Age
+            response:
+              - type: select
+                select_value: <20/20-40/40-60/>60
+          - type: likert
+            name: ebackground
+            label: Education Background
+            response:
+               - type: select
+                 select_value: Less than high school/High school or equivalent/Bachelor’s degree/Master’s degree/Doctorate or higher
+          - type: likert
+            label: Have you ever created a podcast before?
+            name: createPodcast
+            response:
+               - type: select
+                 select_value: Yes/No
+          - type: likert
+            label: Have you listened to podcasts before?
+            name: listenPodcast
+            response:
+               - type: select
+                 select_value: Yes/No
+          - type: likert2
+            name: typePodcasts 
+            optional: true
+            label: If yes, what types of podcasts do you listen to? (Select all that apply) 
+            response:
+             - value: Society and Culture
+               label: Society and Culture
+             - value: Comedy
+               label: Comedy
+             - value: News
+               label: News
+             - value: Education
+               label: Education
+             - value: Business
+               label: Business
+             - value: Health and fitness 
+               label: Health and fitness
+             - value: Arts
+               label: Arts
+             - value: Music
+               label: Music
+             - value: Sports
+               label: Sports
+             - value: Science and Technology
+               label: Science and Technology
+             - value: History
+               label: History
+             - value: True Crime
+               label: True Crime
+             - value: Kids and family
+               label: Kids and family
+             - value: TV and Film
+               label: TV and Film
+             - value: Leisure
+               label: Leisure
+             - value: Fiction
+               label: Fiction
+             - value: Mental health
+               label: Mental health
+             - value: Other
+               label: Other:<input id="other"></input>
+          - type: text
+            optional: true
+            label: (Optional) How do you feel about the test design? Any suggestions to improve it?

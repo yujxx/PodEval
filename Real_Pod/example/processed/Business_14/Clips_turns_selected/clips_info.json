@@ -1,0 +1,27 @@
+{
+  "audio_file": "example/processed/Business_14/vocals.wav",
+  "selected_clips": [
+    {
+      "dialog_id": 2,
+      "audio_file": "dialog_2_SPEAKER_02-SPEAKER_00_49.36-69.36.wav",
+      "time_range": {
+        "start": 49.36,
+        "end": 69.36
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_00",
+      "text": "For example, in my last job, we totally refocused our strategy around customers. And it led to a 20% rise in brand loyalty. That's really interesting. And how did your strategies help build brand loyalty and crowded markets like today?"
+    },
+    {
+      "dialog_id": 8,
+      "audio_file": "dialog_8_SPEAKER_01-SPEAKER_00_137.36-158.84.wav",
+      "time_range": {
+        "start": 137.36,
+        "end": 158.84
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "We help brands, you know, tell unique stories and use data to personalize customer experiences. We also like make a two way condos with consumers, boosting investment and loyalty. Both of you, Sarah and John have liked, shared some really impressive campaigns. Care to, you know, elaborate."
+    }
+  ]
+}

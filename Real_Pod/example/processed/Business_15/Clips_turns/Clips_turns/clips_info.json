@@ -1,0 +1,171 @@
+{
+  "audio_file": "example/processed/Business_15/vocals.wav",
+  "total_clips": 15,
+  "clips": [
+    {
+      "dialog_id": 1,
+      "audio_file": "dialog_1_SPEAKER_02-SPEAKER_01_49.36-66.80.wav",
+      "time_range": {
+        "start": 49.36,
+        "end": 66.8
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "He's the CEO of Tech Ventures. All right, let's just dive in. So Dr. Morris, how have you seen data analysis change over the past 10 years or so? Oh, it's been quite a ride with gone from, like just looking at past and present stuff to actually predicting future trends, you know."
+    },
+    {
+      "dialog_id": 2,
+      "audio_file": "dialog_2_SPEAKER_01-SPEAKER_02_63.76-78.28.wav",
+      "time_range": {
+        "start": 63.76,
+        "end": 78.28
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "to actually predicting future trends, you know. Data analysis is like totally central to business decisions now. Whoa, that's quite the change, huh? But like getting into this whole data thing must come with, you know, some challenges right?"
+    },
+    {
+      "dialog_id": 3,
+      "audio_file": "dialog_3_SPEAKER_02-SPEAKER_01_73.08-86.80.wav",
+      "time_range": {
+        "start": 73.08,
+        "end": 86.8
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "But like getting into this whole data thing must come with, you know, some challenges right? What do you think? Things like data, silos and not enough skilled people and even some folks who like resist the change."
+    },
+    {
+      "dialog_id": 4,
+      "audio_file": "dialog_4_SPEAKER_01-SPEAKER_02_85.60-105.24.wav",
+      "time_range": {
+        "start": 85.6,
+        "end": 105.24
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "the change. But if you unify data, do some training and like led by example, it can be okay. That's some really useful advice Dr. Morris. So do you have any examples where data analytics like really change to business decision?"
+    },
+    {
+      "dialog_id": 5,
+      "audio_file": "dialog_5_SPEAKER_02-SPEAKER_01_96.24-110.76.wav",
+      "time_range": {
+        "start": 96.24,
+        "end": 110.76
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "That's some really useful advice Dr. Morris. So do you have any examples where data analytics like really change to business decision? Oh, yeah, definitely. I remember working with this big company that had like supply chain issues."
+    },
+    {
+      "dialog_id": 6,
+      "audio_file": "dialog_6_SPEAKER_01-SPEAKER_02_106.88-128.72.wav",
+      "time_range": {
+        "start": 106.88,
+        "end": 128.72
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_02",
+      "text": "I remember working with this big company that had like supply chain issues. We did some like detailed data analysis and managed to optimize their inventory and it was pretty game changing in terms of cost and customer happiness. Wow, that's an awesome story, Dr. Morris. So Raj, what do you think about how data analysis is shaping business choices?"
+    },
+    {
+      "dialog_id": 7,
+      "audio_file": "dialog_7_SPEAKER_02-SPEAKER_00_120.40-142.24.wav",
+      "time_range": {
+        "start": 120.4,
+        "end": 142.24
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_00",
+      "text": "Wow, that's an awesome story, Dr. Morris. So Raj, what do you think about how data analysis is shaping business choices? Yeah, we've seen it go from just describing stuff to like actually guiding decisions at tech ventures we're all about like making this kind of change."
+    },
+    {
+      "dialog_id": 8,
+      "audio_file": "dialog_8_SPEAKER_00-SPEAKER_02_128.72-146.92.wav",
+      "time_range": {
+        "start": 128.72,
+        "end": 146.92
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "Yeah, we've seen it go from just describing stuff to like actually guiding decisions at tech ventures we're all about like making this kind of change. What kind of challenges do businesses like face Raj?"
+    },
+    {
+      "dialog_id": 9,
+      "audio_file": "dialog_9_SPEAKER_02-SPEAKER_00_142.24-159.60.wav",
+      "time_range": {
+        "start": 142.24,
+        "end": 159.6
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_00",
+      "text": "What kind of challenges do businesses like face Raj? Uh, both cultural and technical stuff can trip businesses up. But if you like, involve everyone and start small with projects, it helps smooth things"
+    },
+    {
+      "dialog_id": 10,
+      "audio_file": "dialog_10_SPEAKER_00-SPEAKER_02_146.92-170.08.wav",
+      "time_range": {
+        "start": 146.92,
+        "end": 170.08
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "Uh, both cultural and technical stuff can trip businesses up. But if you like, involve everyone and start small with projects, it helps smooth things out, you know? Cool strategies. Raj, can you share a personal story where data and analysis come alike made up impact?"
+    },
+    {
+      "dialog_id": 11,
+      "audio_file": "dialog_11_SPEAKER_02-SPEAKER_00_161.40-175.40.wav",
+      "time_range": {
+        "start": 161.4,
+        "end": 175.4
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_00",
+      "text": "Cool strategies. Raj, can you share a personal story where data and analysis come alike made up impact? For sure. So we worked with this big retail chain, right?"
+    },
+    {
+      "dialog_id": 12,
+      "audio_file": "dialog_12_SPEAKER_00-SPEAKER_02_175.40-192.08.wav",
+      "time_range": {
+        "start": 175.4,
+        "end": 192.08
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "We built a predictive model and it cut their out of stock problems by like 30%. Customers were happier and profits went up. It was like a win win. So looking forward, what should businesses focus on?"
+    },
+    {
+      "dialog_id": 13,
+      "audio_file": "dialog_13_SPEAKER_02-SPEAKER_01_188.20-201.04.wav",
+      "time_range": {
+        "start": 188.2,
+        "end": 201.04
+      },
+      "first_speaker": "SPEAKER_02",
+      "second_speaker": "SPEAKER_01",
+      "text": "So looking forward, what should businesses focus on? I think investing in data, infrastructure, training people and uh, making sure everyone sees the value in data, driven insights is key."
+    },
+    {
+      "dialog_id": 14,
+      "audio_file": "dialog_14_SPEAKER_01-SPEAKER_00_192.08-213.88.wav",
+      "time_range": {
+        "start": 192.08,
+        "end": 213.88
+      },
+      "first_speaker": "SPEAKER_01",
+      "second_speaker": "SPEAKER_00",
+      "text": "I think investing in data, infrastructure, training people and uh, making sure everyone sees the value in data, driven insights is key. Absolutely agree with Dr. Morris also, like fostering a culture of data, literacy, investing and flexible infrastructure and building partnerships can uh, give better insights."
+    },
+    {
+      "dialog_id": 15,
+      "audio_file": "dialog_15_SPEAKER_00-SPEAKER_02_201.04-222.24.wav",
+      "time_range": {
+        "start": 201.04,
+        "end": 222.24
+      },
+      "first_speaker": "SPEAKER_00",
+      "second_speaker": "SPEAKER_02",
+      "text": "Absolutely agree with Dr. Morris also, like fostering a culture of data, literacy, investing and flexible infrastructure and building partnerships can uh, give better insights. This has been like such an inspiring chat. Like thanks to Dr. Morris and Mr. Patel for like sharing their awesome insights."
+    }
+  ]
+}
