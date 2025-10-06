@@ -1,6 +1,6 @@
 # PodEval: Comprehensive Podcast Evaluation Toolkit
 
-A comprehensive toolkit for podcast evaluation across multiple dimensions including audio, speech, and text using both objective metrics and subjective evaluation methods.
+A comprehensive toolkit for podcast evaluation across multiple dimensions including audio, speech, and text using both objective metrics and subjective evaluation methods. [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2510.00485)
 
 <p align="center">
   <img align="middle" width="800" src="PodEval-icon.png"/>
@@ -60,8 +60,21 @@ pip install -r requirements.txt
 
 If you use PodEval in your research, please cite:
 
-(Comming soon)
+```bibtex
+  @misc{xiao2025podeval,
+      title={PodEval: A Multimodal Evaluation Framework for Podcast Audio Generation}, 
+      author={Yujia Xiao and Liumeng Xue and Lei He and Xinyi Chen and Aemon Yat Fei Chiu and Wenjie Tian and Shaofei Zhang and Qiuqiang Kong and Xinfa Zhu and Wei Xue and Tan Lee},
+      year={2025},
+      eprint={2510.00485},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2510.00485}, 
+  }
+```
 
-## License
+## Disclaimer
 
-See project root for license information.
+
+1. The Real-Pod dataset provides publicly accessible download links instead of direct audio files. Users must comply with relevant legal and ethical regulations when using the dataset.
+
+2. Users conducting subjective evaluations via crowdsourcing platforms should ensure fair compensation, exceeding minimum wage requirements, to maintain ethical standards.
