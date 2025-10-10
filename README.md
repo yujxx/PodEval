@@ -58,12 +58,12 @@ pip install -r requirements.txt
 ### More
 - Pyannote: Please follow the `Requirements` [here](https://huggingface.co/pyannote/speaker-diarization-3.0) to create access tokens, and replace the `use_auth_token` in `./Speech_Audio_Obj_Eval/models.py` and `./Real_Pod/data_process.py`.
 
-        ```python
-        pipeline = Pipeline.from_pretrained(
-                "pyannote/speaker-diarization-3.0", 
-                use_auth_token="hf_xxx"
-        )
-        ```
+```python
+pipeline = Pipeline.from_pretrained(
+        "pyannote/speaker-diarization-3.0", 
+        use_auth_token="hf_xxx"
+)
+```
 ---
 
 ## Citation
