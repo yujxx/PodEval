@@ -119,7 +119,7 @@ def process_audio_files_by_module(input_dir, output_dir, seperate, reference_dir
             print(f"Results already exist for {filename}, loading...")
             with open(output_file, "r", encoding="utf-8") as file:
                 all_results[filename] = json.load(file)
-            # 记录该文件已存在结果
+            # record the file has results
             files_with_results.add(filename)
         else:
             all_results[filename] = {}
@@ -152,7 +152,7 @@ def process_audio_files_by_module(input_dir, output_dir, seperate, reference_dir
         print("\n=== Step 2: Audio separation with Demucs ===")
         for filename in tqdm(wav_files, desc="Separating audio"):
             if filename in files_with_results:
-                continue  # 跳过已存在结果的文件
+                continue  
             if 'vocals_file' not in all_results[filename]:
                 info = file_info[filename]
                 print(f"Separating audio for {filename}...")
@@ -171,7 +171,7 @@ def process_audio_files_by_module(input_dir, output_dir, seperate, reference_dir
     print("\n=== Step 3: Speaker segmentation ===")
     for filename in tqdm(wav_files, desc="Segmenting speakers"):
         if filename in files_with_results:
-            continue  # 跳过已存在结果的文件
+            continue 
         if 'segment_dir' not in all_results[filename]:
             info = file_info[filename]
             if info['segment_dir'] == "":
@@ -195,7 +195,7 @@ def process_audio_files_by_module(input_dir, output_dir, seperate, reference_dir
     print("\n=== Step 4: Speaker similarity calculation ===")
     for filename in tqdm(wav_files, desc="Calculating speaker similarity"):
         if filename in files_with_results:
-            continue  # 跳过已存在结果的文件
+            continue  
         if 'SIM' not in all_results[filename]:
             ref_data = reference_data[filename]
             if ref_data['ref_spk_dir'] and ref_data['sent2refspk']:
@@ -211,7 +211,7 @@ def process_audio_files_by_module(input_dir, output_dir, seperate, reference_dir
     print("\n=== Step 5: Timbre differences analysis ===")
     for filename in tqdm(wav_files, desc="Analyzing timbre differences"):
         if filename in files_with_results:
-            continue  # 跳过已存在结果的文件
+            continue  
         if 'SPTD' not in all_results[filename]:
             print(f"Analyzing timbre differences for {filename}...")
             ref_data = reference_data[filename]
@@ -231,7 +231,7 @@ def process_audio_files_by_module(input_dir, output_dir, seperate, reference_dir
     
     for filename in tqdm(wav_files, desc="Calculating DNSMOS"):
         if filename in files_with_results:
-            continue  # 跳过已存在结果的文件
+            continue 
         if 'DNSMOS(OVRL)' not in all_results[filename]:
             print(f"Calculating DNSMOS for {filename}...")
             dnsmos_scores = calculate_dnsmos(all_results[filename]['segment_dir'], model_path)
@@ -250,7 +250,7 @@ def process_audio_files_by_module(input_dir, output_dir, seperate, reference_dir
     print("\n=== Step 7: Loudness analysis ===")
     for filename in tqdm(wav_files, desc="Analyzing loudness"):
         if filename in files_with_results:
-            continue  # 跳过已存在结果的文件
+            continue  
         if 'LOUD_IT' not in all_results[filename]:
             print(f"Analyzing loudness for {filename}...")
             info = file_info[filename]
@@ -481,11 +481,9 @@ def process_single_audio(audio_file, output_dir, seperate, reference_file="", se
                 os.remove(file)
             os.rmdir(segment_dir)
 
-    # Print results
     with open(output_file, "w", encoding="utf-8") as file:
         json.dump(result, file, indent=4, ensure_ascii=False)
 
-    # 返回所有结果
     return result
 
 def process_audio_files_to_csv(input_dir, output_dir, seperate, reference_dir="", segment_dir="", remove_intermediate=True):

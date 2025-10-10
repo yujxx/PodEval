@@ -43,19 +43,7 @@ This toolkit provides a comprehensive pipeline for evaluating the **objective qu
 
 ## **Environment**
 
-See PodEval/README.md
-
-### More
-- DNSMOS Models: The model can be downloaded from this [link](https://github.com/microsoft/DNS-Challenge). For convenient usage, we have uploaded the model files under `./DNSMOS`.
-- Pyannote: Please follow the steps [here](https://github.com/pyannote/pyannote-audio) to create access tokens, and replace the `use_auth_token` in `./models.py` and `./Real_Pod/data_process.py`.
-
-        ```python
-        pipeline = Pipeline.from_pretrained(
-                "pyannote/speaker-diarization-3.0", 
-                use_auth_token="hf_xxx"
-        )
-        ```
----
+See `PodEval/README.md`
 
 ## **Usage**
 

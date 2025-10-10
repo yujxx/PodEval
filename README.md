@@ -45,7 +45,7 @@ PodEval provides a complete evaluation pipeline for podcast generation systems, 
 
 - **Dialogue Naturalness Evaluation**: Evaluate the naturalness and authenticity of dialogue speech in podcast.
 - **Questionnaire-based MOS Test**: Comprehensive evaluation of long-form podcast content through structured questionnaires.
-
+- **Documentation**: [Subjective_Listening_Tests/README.md](./Subjective_Listening_Tests/README.md)
 
 ## Environment
 
@@ -55,6 +55,16 @@ conda activate podeval
 pip install -r requirements.txt
 ```
 
+### More
+- Pyannote: Please follow the `Requirements` [here](https://huggingface.co/pyannote/speaker-diarization-3.0) to create access tokens, and replace the `use_auth_token` in `./Speech_Audio_Obj_Eval/models.py` and `./Real_Pod/data_process.py`.
+
+        ```python
+        pipeline = Pipeline.from_pretrained(
+                "pyannote/speaker-diarization-3.0", 
+                use_auth_token="hf_xxx"
+        )
+        ```
+---
 
 ## Citation
 
