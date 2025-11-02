@@ -2,6 +2,9 @@
 
 Evaluating dialogue quality using both quantitative metrics and LLM-as-a-Judge methods.
 
+<p align="center">
+  <img align="middle" width="800" src="text-eval.png"/>
+</p>
 
 ## Quick Start
 
