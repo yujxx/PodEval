@@ -7,3 +7,9 @@ Contributors (Original WEBMUSHRA)
 * Fabian-Robert Stöter <https://github.com/faroit>
 * Susanne Westphal
 * Maximilian Neumayer
+
+
+Contributors (Update Version For Podcast)
+============
+* Xinyi Chen
+* Yujia Xiao

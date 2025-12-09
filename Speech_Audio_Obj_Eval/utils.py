@@ -70,14 +70,6 @@ def split_audio_by_speaker(audio_file, output_dir):
         return
     os.makedirs(output_dir, exist_ok=True)
 
-    '''
-    print("\tLoading the speaker diarization model...")
-    pipeline = Pipeline.from_pretrained(
-        "pyannote/speaker-diarization-3.0", 
-        use_auth_token="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"
-    )
-    pipeline.to(torch.device("cuda"))
-    '''
     pipeline = get_diarization_pipeline()
 
     print(f"\tProcessing the audio file: \n\t-{audio_file}")
